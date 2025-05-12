@@ -15,7 +15,7 @@
         "heading_ejUzny": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "Augementez vos chances de concevoir de 50%",
             "heading_tag": "h1"
           }
         }
@@ -43,6 +43,7 @@
         "logo_44zNGq": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/047ddce024795fb29aeb87dfa293b3ec.png",
             "logo_width": 120,
             "link": ""
           }
@@ -50,6 +51,7 @@
         "logo_MHyPHD": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/pngaaa.com-3881480.png",
             "logo_width": 120,
             "link": ""
           }
@@ -57,6 +59,7 @@
         "logo_dgmaj4": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/image-1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -64,13 +67,7 @@
         "logo_V4KQxd": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_z3iYgR": {
-          "type": "logo",
-          "settings": {
+            "logo": "shopify://shop_images/VOGUE_LOGO.svg-1024x272-1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -80,16 +77,15 @@
         "logo_44zNGq",
         "logo_MHyPHD",
         "logo_dgmaj4",
-        "logo_V4KQxd",
-        "logo_z3iYgR"
+        "logo_V4KQxd"
       ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Logo list",
+        "title": "Vu sur:",
         "content": "",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "items_per_row": 5,
         "background": "",
         "background_gradient": "",
@@ -134,6 +130,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Call_Outs.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -175,12 +172,14 @@
         "subheading": "",
         "title": "",
         "content": "",
+        "before_image": "shopify://shop_images/4282483_-_np-removebg-preview.png",
+        "after_image": "shopify://shop_images/4282483_-_P-removebg-preview.png",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 100,
         "background": "",
         "background_gradient": "",
         "text_color": "",
