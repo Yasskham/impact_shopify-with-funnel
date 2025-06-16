@@ -533,7 +533,7 @@
           "type": "item",
           "settings": {
             "title": "Glowush convient-il à tous les types de peau ?",
-            "content": "<p>Oui, Glowush est formulé pour convenir à tous les types de peau, même les plus sensibles. Sa texture légère et non comédogène respecte l’équilibre naturel de la peau.</p>"
+            "content": "<p>Oui, <strong>Glowush</strong> est formulé pour convenir à tous les types de peau, même les plus sensibles. Sa texture légère et non comédogène respecte l’équilibre naturel de la peau.</p>"
           }
         }
       },
