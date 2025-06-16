@@ -301,7 +301,7 @@
         "gap": "small",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Leur avis, notre plus belle preuve",
+        "title": "Leur avis, notre plus belle réussite",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -342,7 +342,7 @@
         "text_4yEmFE": {
           "type": "text",
           "settings": {
-            "text": "<ul><li><strong>Hydrate la peau pour un effet frais.</strong></li><li><strong>Métamorphose instantanée</strong></li><li><strong>Couvre les boutons sans obstruer la peau.<br/><br/></strong></li></ul><p></p>"
+            "text": "<ul><li><strong>Hydrate la peau pour un visage frais.</strong></li></ul><p></p><ul><li><strong>Métamorphose instantanée</strong></li></ul><p></p><ul><li><strong>Couvre les boutons sans obstruer la peau.<br/><br/></strong></li></ul><p></p>"
           }
         },
         "rating_qRGMtL": {
@@ -387,7 +387,7 @@
           "settings": {
             "image": "shopify://shop_images/FlexiPrise_38.png",
             "alignment": "start",
-            "max_width": 300
+            "max_width": 370
           }
         },
         "buy_buttons_qUbeWB": {
