@@ -339,15 +339,17 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Seulement  4 en stock!</div>\n</div>"
           }
         },
+        "text_4yEmFE": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><strong>Hydrate la peau pour un effet frais.</strong></li></ul><p></p><ul><li><strong>Métamorphose instantanée</strong></li></ul><p></p><ul><li><strong>Couvre les boutons sans obstruer la peau.<br/><br/></strong></li></ul><p></p>"
+          }
+        },
         "rating_qRGMtL": {
           "type": "rating",
           "settings": {
             "show_empty": false
           }
-        },
-        "separator_E8Nkin": {
-          "type": "separator",
-          "settings": {}
         },
         "description_A4YVqf": {
           "type": "description",
@@ -372,21 +374,6 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "buy_buttons_qUbeWB": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#f0e317",
-            "atc_button_text_color": "",
-            "payment_button_background": "#000000",
-            "payment_button_text_color": "#1a1a1a"
-          }
-        },
-        "pickup_availability_jaEUN4": {
-          "type": "pickup_availability",
-          "settings": {}
-        },
         "image_eV9qAP": {
           "type": "image",
           "settings": {
@@ -402,6 +389,21 @@
             "alignment": "start",
             "max_width": 300
           }
+        },
+        "buy_buttons_qUbeWB": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#f0e317",
+            "atc_button_text_color": "",
+            "payment_button_background": "#000000",
+            "payment_button_text_color": "#1a1a1a"
+          }
+        },
+        "pickup_availability_jaEUN4": {
+          "type": "pickup_availability",
+          "settings": {}
         }
       },
       "block_order": [
@@ -410,15 +412,15 @@
         "badges_dqKxme",
         "price_L33KMA",
         "liquid_KK9MWp",
+        "text_4yEmFE",
         "rating_qRGMtL",
-        "separator_E8Nkin",
         "description_A4YVqf",
         "variant_picker_8PYyCr",
         "quantity_selector_gkCmqX",
-        "buy_buttons_qUbeWB",
-        "pickup_availability_jaEUN4",
         "image_eV9qAP",
-        "image_tHBnPQ"
+        "image_tHBnPQ",
+        "buy_buttons_qUbeWB",
+        "pickup_availability_jaEUN4"
       ],
       "name": "Featured product",
       "settings": {
@@ -446,7 +448,7 @@
           "type": "tab",
           "settings": {
             "title": "Caracteristiques",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "content": "<p><strong>Glowush</strong> est une crème cushion légère avec applicateur tête de champignon. Elle unifie le teint, camoufle imperfections, hydrate et protège la peau. Sa texture douce offre un fini naturel, longue tenue, sans effet gras. Adaptée à tous types de peau, elle garantit un teint éclatant en un seul geste.</p>",
             "page": ""
           }
         },
@@ -454,7 +456,7 @@
           "type": "tab",
           "settings": {
             "title": "Essayez-le 30 jours gratuitement",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p>Essayez Glowush gratuitement pendant 30 jours ! Découvrez son pouvoir unifiant, sa texture légère et son fini naturel. Votre teint parfait sans effort, sans engagement. Adoptez Glowush, vous allez adorer.</p>",
             "page": ""
           }
         },
@@ -462,7 +464,7 @@
           "type": "tab",
           "settings": {
             "title": "Livraison offerte a domicile",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "content": "<p>Profitez de Glowush avec la <strong>livraison offerte à domicile</strong> ! Recevez votre teint parfait directement chez vous, sans frais supplémentaires. Simple, rapide, pratique : Glowush prend soin de votre peau et de vous.</p>",
             "page": ""
           }
         },
@@ -470,15 +472,7 @@
           "type": "tab",
           "settings": {
             "title": "Service client 7j/7",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "page": ""
-          }
-        },
-        "tab_H7nHDp": {
-          "type": "tab",
-          "settings": {
-            "title": "autre",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p>Notre service client est disponible 7j/7 pour vous accompagner.<br/><br/>📞 Lundi au vendredi : 9h–12h / 12h–18h<br/><br/>📞 Samedi & dimanche : 11h–14h<br/><br/>Avec <strong>Glowush</strong>, vous n’êtes jamais seule.</p>",
             "page": ""
           }
         }
@@ -487,8 +481,7 @@
         "tab_rY7wx8",
         "tab_cYmnjb",
         "tab_cikwxf",
-        "tab_cYgYzg",
-        "tab_H7nHDp"
+        "tab_cYgYzg"
       ],
       "name": "Tabs",
       "settings": {
@@ -511,29 +504,37 @@
         "item_4EwCnx": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Comment appliquer correctement Glowush ?",
+            "content": "<p>Utilisez l’éponge intégrée en forme de champignon pour tapoter doucement la crème sur le visage. Commencez par le centre, puis étirez vers l’extérieur pour un teint uniforme et naturel.</p>"
           }
         },
         "item_DkLb7B": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Glowush couvre-t-il bien les imperfections ?",
+            "content": "<p><em><strong>Oui</strong></em>, <strong>Glowush</strong> floute efficacement rougeurs, pores dilatés, taches et petites imperfections. La couvrance est modulable, pour un rendu naturel ou plus travaillé selon vos besoins.</p>"
           }
         },
         "item_aPJErG": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Est-ce que Glowush tient toute la journée ?",
+            "content": "<p>Absolument. <strong>Glowush</strong> offre une tenue longue durée, sans retouche nécessaire. Il résiste à la chaleur, à l’humidité et ne file pas dans les plis.</p>"
+          }
+        },
+        "item_mig7pp": {
+          "type": "item",
+          "settings": {
+            "title": "Dois-je utiliser un fond de teint en plus de Glowush ?",
+            "content": "<p>Non, <strong>Glowush</strong> peut remplacer votre fond de teint. Il hydrate, unifie et illumine le teint en un seul geste, tout en laissant la peau respirer.</p>"
           }
         }
       },
       "block_order": [
         "item_4EwCnx",
         "item_DkLb7B",
-        "item_aPJErG"
+        "item_aPJErG",
+        "item_mig7pp"
       ],
       "name": "FAQ",
       "settings": {
