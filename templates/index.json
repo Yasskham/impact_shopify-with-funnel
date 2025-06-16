@@ -179,7 +179,7 @@
         "before_after_text_position": "top",
         "before_text": "Avant",
         "after_text": "Après",
-        "drag_initial_position": 100,
+        "drag_initial_position": 30,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -210,7 +210,7 @@
         "item_DVR9jj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ex_coms.jpg",
+            "image": "shopify://shop_images/ex_coms_1a076e14-0b0a-4111-a3f9-d67b3acae439.jpg",
             "column_size": "3",
             "title": "Nancy",
             "heading_tag": "h4",
@@ -223,7 +223,7 @@
         "item_xFUnQq": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ex_avis.jpg",
+            "image": "shopify://shop_images/ex_avis_8c755a17-89fe-4f34-8d79-3e9a5758289e.jpg",
             "column_size": "3",
             "title": "Aurélie",
             "heading_tag": "h4",
@@ -236,7 +236,7 @@
         "item_HWGLUj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_16_juin_2025_19_23_26.png",
+            "image": "shopify://shop_images/ex_02.webp",
             "column_size": "3",
             "title": "Kamélia",
             "heading_tag": "h4",
@@ -249,7 +249,7 @@
         "item_jcLRgN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ex_com.webp",
+            "image": "shopify://shop_images/ex_03.webp",
             "column_size": "3",
             "title": "Fanny",
             "heading_tag": "h4",
@@ -262,7 +262,7 @@
         "item_HArBXi": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_19.45.57.png",
+            "image": "shopify://shop_images/ex_04.webp",
             "column_size": "3",
             "title": "Brigitte",
             "heading_tag": "h4",
@@ -275,8 +275,8 @@
         "item_6jYbgX": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ex_com.jpg",
-            "column_size": "4",
+            "image": "shopify://shop_images/ex_04.jpg",
+            "column_size": "3",
             "title": "Sara",
             "heading_tag": "h4",
             "content": "<p><strong>\"Dès la première application, mon teint est lumineux, j’ai bonne mine immédiatement.\"</strong></p><p></p>",
@@ -301,7 +301,7 @@
         "gap": "small",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Leur avis, notre plus belle réussite",
+        "title": "Leur avis, notre plus belle preuve",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -342,7 +342,7 @@
         "text_4yEmFE": {
           "type": "text",
           "settings": {
-            "text": "<ul><li><strong>Hydrate la peau pour un visage frais.</strong></li></ul><p></p><ul><li><strong>Métamorphose instantanée</strong></li></ul><p></p><ul><li><strong>Couvre les boutons sans obstruer la peau.<br/><br/></strong></li></ul><p></p>"
+            "text": "<ul><li><strong>Hydrate la peau pour un effet frais.</strong></li><li><strong>Métamorphose instantanée</strong></li><li><strong>Couvre les boutons sans obstruer la peau.<br/><br/></strong></li></ul><p></p>"
           }
         },
         "rating_qRGMtL": {
@@ -387,7 +387,7 @@
           "settings": {
             "image": "shopify://shop_images/FlexiPrise_38.png",
             "alignment": "start",
-            "max_width": 370
+            "max_width": 300
           }
         },
         "buy_buttons_qUbeWB": {
