@@ -15,8 +15,8 @@
         "heading_ejUzny": {
           "type": "heading",
           "settings": {
-            "text": "Augementez vos chances de concevoir de 50%",
-            "heading_tag": "h1"
+            "text": "Corrige les imperfections pour dévoiler une peau parfaite.",
+            "heading_tag": "h3"
           }
         }
       },
@@ -29,12 +29,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/iStock-1253920275.jpg",
+        "image": "shopify://shop_images/glowush.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 22
       }
     },
     "logo_list_MRqjE4": {
@@ -43,7 +43,6 @@
         "logo_44zNGq": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/047ddce024795fb29aeb87dfa293b3ec.png",
             "logo_width": 120,
             "link": ""
           }
@@ -51,7 +50,6 @@
         "logo_MHyPHD": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/pngaaa.com-3881480.png",
             "logo_width": 120,
             "link": ""
           }
@@ -59,7 +57,6 @@
         "logo_dgmaj4": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/image-1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -67,7 +64,6 @@
         "logo_V4KQxd": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/VOGUE_LOGO.svg-1024x272-1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -130,7 +126,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Call_Outs.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -172,8 +167,6 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "before_image": "shopify://shop_images/4282483_-_np-removebg-preview.png",
-        "after_image": "shopify://shop_images/4282483_-_P-removebg-preview.png",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
