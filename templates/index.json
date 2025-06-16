@@ -386,6 +386,14 @@
         "pickup_availability_jaEUN4": {
           "type": "pickup_availability",
           "settings": {}
+        },
+        "image_eV9qAP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FlexiPrise_37.png",
+            "alignment": "center",
+            "max_width": 300
+          }
         }
       },
       "block_order": [
@@ -400,7 +408,8 @@
         "variant_picker_8PYyCr",
         "quantity_selector_gkCmqX",
         "buy_buttons_qUbeWB",
-        "pickup_availability_jaEUN4"
+        "pickup_availability_jaEUN4",
+        "image_eV9qAP"
       ],
       "name": "Featured product",
       "settings": {
