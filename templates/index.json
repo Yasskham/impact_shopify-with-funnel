@@ -528,13 +528,21 @@
             "title": "Dois-je utiliser un fond de teint en plus de Glowush ?",
             "content": "<p>Non, <strong>Glowush</strong> peut remplacer votre fond de teint. Il hydrate, unifie et illumine le teint en un seul geste, tout en laissant la peau respirer.</p>"
           }
+        },
+        "item_yk4ekz": {
+          "type": "item",
+          "settings": {
+            "title": "Glowush convient-il à tous les types de peau ?",
+            "content": "<p>Oui, Glowush est formulé pour convenir à tous les types de peau, même les plus sensibles. Sa texture légère et non comédogène respecte l’équilibre naturel de la peau.</p>"
+          }
         }
       },
       "block_order": [
         "item_4EwCnx",
         "item_DkLb7B",
         "item_aPJErG",
-        "item_mig7pp"
+        "item_mig7pp",
+        "item_yk4ekz"
       ],
       "name": "FAQ",
       "settings": {
