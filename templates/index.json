@@ -43,6 +43,7 @@
         "logo_44zNGq": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/FlexiPrise_33.png",
             "logo_width": 120,
             "link": ""
           }
@@ -50,6 +51,7 @@
         "logo_MHyPHD": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/2560px-Marie_Claire_Magazine_logo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -57,6 +59,7 @@
         "logo_dgmaj4": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/FlexiPrise_35.png",
             "logo_width": 120,
             "link": ""
           }
@@ -64,6 +67,7 @@
         "logo_V4KQxd": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -98,8 +102,8 @@
         "heading_wUCP9E": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir produit x ?",
-            "heading_tag": "h1",
+            "text": "Ce que Glowush change  dans votre quotidien",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -126,11 +130,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/cable_18.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "rich_text_dUzLTg": {
@@ -139,8 +144,8 @@
         "heading_fTwCT3": {
           "type": "heading",
           "settings": {
-            "text": "Résultat avant/après",
-            "heading_tag": "h1",
+            "text": "La magie en action",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -167,6 +172,8 @@
         "subheading": "",
         "title": "",
         "content": "",
+        "before_image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_19.34.27.png",
+        "after_image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_19.34.55.png",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
@@ -203,10 +210,11 @@
         "item_DVR9jj": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ex_coms.jpg",
             "column_size": "3",
-            "title": "nom 1",
+            "title": "Nancy",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>\"Depuis que je l’utilise, mes rougeurs ont disparu, mon teint est beaucoup plus calme.\"</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -216,9 +224,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "nom 2",
+            "title": "Aurélie",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>\"Mes pores sont visiblement réduits, ma peau est plus lisse et douce au toucher.\"</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -228,9 +236,45 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "nom 3",
+            "title": "Kamélia",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>\"Je cache mes cernes en 2 secondes, mon regard paraît reposé même sans dormir.\"</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jcLRgN": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Fanny",
+            "heading_tag": "h4",
+            "content": "<p><strong>\"J’adore la sensation, ma peau reste fraîche et hydratée toute la journée sans tiraillement.\"</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HArBXi": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Brigitte",
+            "heading_tag": "h4",
+            "content": "<p><strong>\"Effet super naturel, on dirait même pas que je porte du maquillage. J’adore !\"</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6jYbgX": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Sara",
+            "heading_tag": "h4",
+            "content": "<p><strong>\"Dès la première application, mon teint est lumineux, j’ai bonne mine immédiatement.\"</strong></p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -240,7 +284,10 @@
       "block_order": [
         "item_DVR9jj",
         "item_xFUnQq",
-        "item_HWGLUj"
+        "item_HWGLUj",
+        "item_jcLRgN",
+        "item_HArBXi",
+        "item_6jYbgX"
       ],
       "name": "Multi-column",
       "settings": {
