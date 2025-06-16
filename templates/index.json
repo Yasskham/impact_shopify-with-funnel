@@ -298,10 +298,10 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "small",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Nos clients en parlent le mieux",
+        "title": "Leur avis, notre plus belle preuve",
         "content": "",
         "background": "",
         "background_gradient": "",
