@@ -394,6 +394,14 @@
             "alignment": "center",
             "max_width": 300
           }
+        },
+        "image_tHBnPQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FlexiPrise_38.png",
+            "alignment": "start",
+            "max_width": 300
+          }
         }
       },
       "block_order": [
@@ -409,7 +417,8 @@
         "quantity_selector_gkCmqX",
         "buy_buttons_qUbeWB",
         "pickup_availability_jaEUN4",
-        "image_eV9qAP"
+        "image_eV9qAP",
+        "image_tHBnPQ"
       ],
       "name": "Featured product",
       "settings": {
