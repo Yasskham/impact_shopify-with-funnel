@@ -37,19 +37,6 @@
         "overlay_opacity": 22
       }
     },
-    "custom_liquid_wrqkBn": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div style=\"padding: 2rem 0; background-color: transparent; text-align: center;\">\n  <h2 style=\"font-size: 1.5rem; font-weight: bold; margin-bottom: 1rem;\">On parle de nous :</h2>\n  <div style=\"overflow: hidden; white-space: nowrap; animation: scroll-logos 20s linear infinite;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0923/2410/2519/files/FlexiPrise_33.png?v=1750088761\" alt=\"Logo 1\" style=\"height: 60px; width: auto; margin: 0 30px; display: inline-block; object-fit: contain;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0923/2410/2519/files/2560px-Marie_Claire_Magazine_logo.png?v=1750088880\" alt=\"Marie Claire\" style=\"height: 60px; width: auto; margin: 0 30px; display: inline-block; object-fit: contain;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0923/2410/2519/files/2560px-Marie_Claire_Magazine_logo.png?v=1750088880\" alt=\"Vogue\" style=\"height: 60px; width: auto; margin: 0 30px; display: inline-block; object-fit: contain;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0923/2410/2519/files/FlexiPrise_35.png?v=1750089202\" alt=\"Logo 4\" style=\"height: 60px; width: auto; margin: 0 30px; display: inline-block; object-fit: contain;\">\n  </div>\n</div>\n\n<style>\n@keyframes scroll-logos {\n  0% { transform: translateX(100%); }\n  100% { transform: translateX(-100%); }\n}\n</style>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "logo_list_MRqjE4": {
       "type": "logo-list",
       "blocks": {
@@ -349,7 +336,7 @@
         "liquid_KK9MWp": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Only 4 bags left at this price.</div>\n</div>"
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Seulement  4 en stock!</div>\n</div>"
           }
         },
         "rating_qRGMtL": {
@@ -577,7 +564,6 @@
   },
   "order": [
     "image_with_text_overlay_KeqeEw",
-    "custom_liquid_wrqkBn",
     "logo_list_MRqjE4",
     "rich_text_Ckb6dt",
     "image_with_text_overlay_n9DM8r",
