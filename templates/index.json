@@ -223,6 +223,7 @@
         "item_xFUnQq": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ex_avis.jpg",
             "column_size": "3",
             "title": "Aurélie",
             "heading_tag": "h4",
@@ -235,6 +236,7 @@
         "item_HWGLUj": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_16_juin_2025_19_23_26.png",
             "column_size": "3",
             "title": "Kamélia",
             "heading_tag": "h4",
@@ -247,6 +249,7 @@
         "item_jcLRgN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ex_com.webp",
             "column_size": "3",
             "title": "Fanny",
             "heading_tag": "h4",
@@ -259,10 +262,11 @@
         "item_HArBXi": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_19.45.57.png",
             "column_size": "3",
             "title": "Brigitte",
             "heading_tag": "h4",
-            "content": "<p><strong>\"Effet super naturel, on dirait même pas que je porte du maquillage. J’adore !\"</strong></p>",
+            "content": "<p><strong>\"Un maquillage à avoir!  Super naturel, on dirait même pas que je porte du maquillage. J’adore !\"</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -271,6 +275,7 @@
         "item_6jYbgX": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ex_com.jpg",
             "column_size": "4",
             "title": "Sara",
             "heading_tag": "h4",
