@@ -360,7 +360,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/FlexiPrise_38.png",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 300
           }
         },
