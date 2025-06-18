@@ -96,46 +96,20 @@
         "logo_item_border": ""
       }
     },
-    "rich_text_Ckb6dt": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_wUCP9E": {
-          "type": "heading",
-          "settings": {
-            "text": "Ce que Glowush change  dans votre quotidien",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_wUCP9E"
+    "custom_liquid_6ei8eH": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "h2 {font-size: 20px; line-height: 20px; font-weight: bold; text-align: center;}"
       ],
-      "name": "Rich text",
+      "name": "Custom Liquid",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<h2>Ce que Glowush change  dans votre quotidien</h2>\n<br>\n<img src=\"https://whdcaf-xv.myshopify.com/cdn/shop/files/cable_18.png?v=1750093203&width=1200\" width=\"100%\"/>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_n9DM8r": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/cable_18.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "rich_text_dUzLTg": {
@@ -592,8 +566,7 @@
   "order": [
     "image_with_text_overlay_KeqeEw",
     "logo_list_MRqjE4",
-    "rich_text_Ckb6dt",
-    "image_with_text_overlay_n9DM8r",
+    "custom_liquid_6ei8eH",
     "rich_text_dUzLTg",
     "before_after_image_EMRXGH",
     "video_97zmMt",
