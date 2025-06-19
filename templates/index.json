@@ -29,7 +29,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/1f884413-7579-43f6-a072-f79b91b9aa96.png",
+        "image": "shopify://shop_images/ChatGPT_Image_19_juin_2025_17_40_03.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -184,7 +184,7 @@
         "item_DVR9jj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ex_coms_1a076e14-0b0a-4111-a3f9-d67b3acae439.jpg",
+            "image": "shopify://shop_images/FlexiPrise_50.png",
             "column_size": "3",
             "title": "Nancy",
             "heading_tag": "h4",
