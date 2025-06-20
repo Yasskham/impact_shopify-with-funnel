@@ -118,7 +118,7 @@
         "heading_fTwCT3": {
           "type": "heading",
           "settings": {
-            "text": "La magie en action",
+            "text": "Avant / Après : Un geste, un miracle",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -146,8 +146,8 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "before_image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_19.34.27.png",
-        "after_image": "shopify://shop_images/Capture_d_ecran_2025-06-16_a_19.34.55.png",
+        "before_image": "shopify://shop_images/ChatGPT_Image_20_juin_2025_19_32_41.png",
+        "after_image": "shopify://shop_images/ChatGPT_Image_20_juin_2025_19_41_23.png",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
