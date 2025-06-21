@@ -348,22 +348,6 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "image_eV9qAP": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/FlexiPrise_37.png",
-            "alignment": "center",
-            "max_width": 300
-          }
-        },
-        "image_tHBnPQ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/FlexiPrise_38.png",
-            "alignment": "center",
-            "max_width": 300
-          }
-        },
         "buy_buttons_qUbeWB": {
           "type": "buy_buttons",
           "settings": {
@@ -373,6 +357,30 @@
             "atc_button_text_color": "",
             "payment_button_background": "#000000",
             "payment_button_text_color": "#1a1a1a"
+          }
+        },
+        "image_eV9qAP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FlexiPrise_54.png",
+            "alignment": "center",
+            "max_width": 410
+          }
+        },
+        "image_tHBnPQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1f73fc0455d235c8db3d2fa7f4c96d20.webp",
+            "alignment": "center",
+            "max_width": 460
+          }
+        },
+        "image_HVgMYV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/d01872925c723085b4bb755c7dbb3958.webp",
+            "alignment": "start",
+            "max_width": 380
           }
         },
         "pickup_availability_jaEUN4": {
@@ -391,9 +399,10 @@
         "description_A4YVqf",
         "variant_picker_8PYyCr",
         "quantity_selector_gkCmqX",
+        "buy_buttons_qUbeWB",
         "image_eV9qAP",
         "image_tHBnPQ",
-        "buy_buttons_qUbeWB",
+        "image_HVgMYV",
         "pickup_availability_jaEUN4"
       ],
       "name": "Featured product",
