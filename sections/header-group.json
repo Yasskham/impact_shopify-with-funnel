@@ -66,8 +66,8 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/FlexiPrise_36.png",
-        "logo_max_width": 185,
+        "logo": "shopify://shop_images/logo_glowush.png",
+        "logo_max_width": 230,
         "logo_mobile_max_width": 135,
         "menu": "main-menu",
         "sidebar_menu": "",
