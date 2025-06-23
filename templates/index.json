@@ -359,6 +359,12 @@
             "payment_button_text_color": "#1a1a1a"
           }
         },
+        "liquid_QVgyqY": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 20px;\">\n  <div style=\"flex: 1 1 48%;\">\n    <video width=\"100%\" controls muted playsinline style=\"border-radius: 10px;\">\n      <source src=\"https://cdn.shopify.com/videos/c/o/v/d82eb478612a441e8b64b282ef038758.mp4\" type=\"video/mp4\">\n      Votre navigateur ne supporte pas la lecture vidéo.\n    </video>\n  </div>\n\n  <div style=\"flex: 1 1 48%;\">\n    <video width=\"100%\" controls muted playsinline style=\"border-radius: 10px;\">\n      <source src=\"https://cdn.shopify.com/videos/c/o/v/6940310cc1944ce1baac0485407d63a3.mp4\" type=\"video/mp4\">\n      Votre navigateur ne supporte pas la lecture vidéo.\n    </video>\n  </div>\n\n  <div style=\"flex: 1 1 48%;\">\n    <video width=\"100%\" controls muted playsinline style=\"border-radius: 10px;\">\n      <source src=\"https://cdn.shopify.com/videos/c/o/v/a62006755dd64704b425bb0af809325b.mp4\" type=\"video/mp4\">\n      Votre navigateur ne supporte pas la lecture vidéo.\n    </video>\n  </div>\n\n  <div style=\"flex: 1 1 48%;\">\n    <video width=\"100%\" controls muted playsinline style=\"border-radius: 10px;\">\n      <source src=\"https://cdn.shopify.com/videos/c/o/v/7e666305cd4c421f9643aae05b010578.mp4\" type=\"video/mp4\">\n      Votre navigateur ne supporte pas la lecture vidéo.\n    </video>\n  </div>\n</div>"
+          }
+        },
         "image_eV9qAP": {
           "type": "image",
           "settings": {
@@ -400,6 +406,7 @@
         "variant_picker_8PYyCr",
         "quantity_selector_gkCmqX",
         "buy_buttons_qUbeWB",
+        "liquid_QVgyqY",
         "image_eV9qAP",
         "image_tHBnPQ",
         "image_HVgMYV",
