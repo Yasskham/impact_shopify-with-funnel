@@ -15,7 +15,7 @@
         "heading_ejUzny": {
           "type": "heading",
           "settings": {
-            "text": "",
+            "text": "Ton regard hypnotise tout le monde",
             "heading_tag": "h3"
           }
         }
@@ -29,7 +29,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_19_juin_2025_17_40_03.png",
+        "image": "shopify://shop_images/ChatGPT_Image_24_juin_2025_12_56_40.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
