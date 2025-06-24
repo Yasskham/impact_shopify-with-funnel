@@ -361,14 +361,6 @@
             "max_width": 460
           }
         },
-        "image_HVgMYV": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/d01872925c723085b4bb755c7dbb3958.webp",
-            "alignment": "start",
-            "max_width": 460
-          }
-        },
         "pickup_availability_jaEUN4": {
           "type": "pickup_availability",
           "settings": {}
@@ -389,7 +381,6 @@
         "liquid_QVgyqY",
         "image_eV9qAP",
         "image_tHBnPQ",
-        "image_HVgMYV",
         "pickup_availability_jaEUN4"
       ],
       "name": "Featured product",
