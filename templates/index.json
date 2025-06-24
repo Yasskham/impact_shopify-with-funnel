@@ -29,7 +29,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_24_juin_2025_12_56_40.png",
+        "image": "shopify://shop_images/glowush_overlay.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -370,7 +370,7 @@
           "settings": {
             "image": "shopify://shop_images/FlexiPrise_54.png",
             "alignment": "center",
-            "max_width": 410
+            "max_width": 460
           }
         },
         "image_tHBnPQ": {
@@ -386,7 +386,7 @@
           "settings": {
             "image": "shopify://shop_images/d01872925c723085b4bb755c7dbb3958.webp",
             "alignment": "start",
-            "max_width": 380
+            "max_width": 460
           }
         },
         "pickup_availability_jaEUN4": {
