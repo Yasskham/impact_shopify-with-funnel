@@ -476,6 +476,13 @@
             "content": "<p>Oui, <strong>Glowush</strong> permet un tracé précis grâce à son applicateur ergonomique qui épouse naturellement la forme de l’œil. Il offre une excellente prise en main et facilite la réalisation de traits nets, même pour les débutants. Parfait pour un contour défini et élégant.</p>"
           }
         },
+        "item_6WGJqh": {
+          "type": "item",
+          "settings": {
+            "title": "À quelle fréquence faut-il remplacer l’embout ?",
+            "content": "<p>L’embout est remplaçable ; la marque fournit deux embouts dans le kit, idéalement à changer tous les 3‑4 mois pour maintenir une précision optimale</p>"
+          }
+        },
         "item_aPJErG": {
           "type": "item",
           "settings": {
@@ -501,6 +508,7 @@
       "block_order": [
         "item_4EwCnx",
         "item_DkLb7B",
+        "item_6WGJqh",
         "item_aPJErG",
         "item_mig7pp",
         "item_yk4ekz"
