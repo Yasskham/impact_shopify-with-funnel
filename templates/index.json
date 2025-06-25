@@ -466,28 +466,28 @@
           "type": "item",
           "settings": {
             "title": "Comment appliquer correctement Glowush ?",
-            "content": "<p>Utilisez l’éponge intégrée en forme de champignon pour tapoter doucement la crème sur le visage. Commencez par le centre, puis étirez vers l’extérieur pour un teint uniforme et naturel.</p>"
+            "content": "<p>Pour appliquer correctement <strong>Glowush</strong>, chargez la pointe en la glissant sur le crayon, positionnez l’applicateur contre votre joue pour stabiliser, puis tracez la ligne des cils en petits mouvements. Pour un effet cat eye, ajoutez un flick au coin externe et reliez.</p>"
           }
         },
         "item_DkLb7B": {
           "type": "item",
           "settings": {
-            "title": "Glowush couvre-t-il bien les imperfections ?",
-            "content": "<p><em><strong>Oui</strong></em>, <strong>Glowush</strong> floute efficacement rougeurs, pores dilatés, taches et petites imperfections. La couvrance est modulable, pour un rendu naturel ou plus travaillé selon vos besoins.</p>"
+            "title": "Glowush permet-il de dessiner précisément le contour des yeux ?",
+            "content": "<p>Oui, <strong>Glowush</strong> permet un tracé précis grâce à son applicateur ergonomique qui épouse naturellement la forme de l’œil. Il offre une excellente prise en main et facilite la réalisation de traits nets, même pour les débutants. Parfait pour un contour défini et élégant.</p>"
           }
         },
         "item_aPJErG": {
           "type": "item",
           "settings": {
             "title": "Est-ce que Glowush tient toute la journée ?",
-            "content": "<p>Absolument. <strong>Glowush</strong> offre une tenue longue durée, sans retouche nécessaire. Il résiste à la chaleur, à l’humidité et ne file pas dans les plis.</p>"
+            "content": "<p>Oui, <strong>Glowush</strong> tient parfaitement toute la journée. Sa formule résistante à l’humidité et aux frottements assure un maquillage impeccable du matin jusqu’au soir, sans bavure. Idéal pour un look intense et durable, même en cas de chaleur ou d’activité prolongée.</p>"
           }
         },
         "item_mig7pp": {
           "type": "item",
           "settings": {
-            "title": "Dois-je utiliser un fond de teint en plus de Glowush ?",
-            "content": "<p>Non, <strong>Glowush</strong> peut remplacer votre fond de teint. Il hydrate, unifie et illumine le teint en un seul geste, tout en laissant la peau respirer.</p>"
+            "title": "Comment utiliser l'applicateur correctement ?",
+            "content": "<p>Glissez délicatement l’embout sur la surface de l’eyeliner (sans creuser), positionnez le doigt dans l’encoche, et tracez en petits segments via la fenêtre centrale</p>"
           }
         },
         "item_yk4ekz": {
