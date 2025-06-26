@@ -427,6 +427,22 @@
         "input_text_color": ""
       }
     },
+    "scrolling_text_naVUq4": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "⚡ –50 % jusqu’à minuit | Regard intense instantanément | 98 % d’utilisatrices bluffées | Commandez maintenant !",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "tabs_XFNJJV": {
       "type": "tabs",
       "blocks": {
@@ -594,6 +610,7 @@
     "before_after_image_EMRXGH",
     "multi_column_LUYayJ",
     "featured_product_X9BJic",
+    "scrolling_text_naVUq4",
     "tabs_XFNJJV",
     "faq_fL4TNB",
     "contact_VrJ4iy"
