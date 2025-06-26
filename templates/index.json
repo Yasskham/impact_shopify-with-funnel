@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "text": "Ton regard envoûte.Chaque trait parfait en un geste.",
-            "heading_tag": "h3"
+            "heading_tag": "h4"
           }
         }
       },
@@ -92,8 +92,40 @@
         "text_color": ""
       }
     },
+    "images_with_text_scrolling_NE6cDD": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_wjn4q9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1f73fc0455d235c8db3d2fa7f4c96d20.webp",
+            "icon": "none",
+            "icon_width": 52,
+            "title": "Précision Pro, Application Ultra Facile",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_wjn4q9"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "video_97zmMt": {
       "type": "video",
+      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -342,7 +374,7 @@
         "liquid_QVgyqY": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;\">\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/d82eb478612a441e8b64b282ef038758.mp4\" \n         autoplay \n         muted \n         loop \n         playsinline \n         style=\"width: 40%; aspect-ratio: 9/16; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);\">\n  </video>\n\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/6940310cc1944ce1baac0485407d63a3.mp4\" \n         autoplay \n         muted \n         loop \n         playsinline \n         style=\"width: 40%; aspect-ratio: 9/16; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);\">\n  </video>\n\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/a62006755dd64704b425bb0af809325b.mp4\" \n         autoplay \n         muted \n         loop \n         playsinline \n         style=\"width: 40%; aspect-ratio: 9/16; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);\">\n  </video>\n\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/7e666305cd4c421f9643aae05b010578.mp4\" \n         autoplay \n         muted \n         loop \n         playsinline \n         style=\"width: 40%; aspect-ratio: 9/16; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);\">\n  </video>\n</div>"
+            "liquid": "<div style=\"display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px; margin-top: 20px; overflow-x: auto;\">\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/d82eb478612a441e8b64b282ef038758.mp4\" \n         autoplay \n         muted \n         loop \n         playsinline \n         style=\"width: 22%; aspect-ratio: 9/16; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);\">\n  </video>\n\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/6940310cc1944ce1baac0485407d63a3.mp4\" \n         autoplay \n         muted \n         loop \n         playsinline \n         style=\"width: 22%; aspect-ratio: 9/16; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);\">\n  </video>\n\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/a62006755dd64704b425bb0af809325b.mp4\" \n         autoplay \n         muted \n         loop \n         playsinline \n         style=\"width: 22%; aspect-ratio: 9/16; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);\">\n  </video>\n\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/7e666305cd4c421f9643aae05b010578.mp4\" \n         autoplay \n         muted \n         loop \n         playsinline \n         style=\"width: 22%; aspect-ratio: 9/16; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);\">\n  </video>\n</div>"
           }
         },
         "image_eV9qAP": {
@@ -356,7 +388,7 @@
         "image_tHBnPQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1f73fc0455d235c8db3d2fa7f4c96d20.webp",
+            "image": "shopify://shop_images/amelioree_et_agrandie.jpg",
             "alignment": "center",
             "max_width": 460
           }
@@ -563,6 +595,7 @@
     "rich_text_D9BbFH",
     "custom_liquid_Tjw38M",
     "custom_liquid_6ei8eH",
+    "images_with_text_scrolling_NE6cDD",
     "video_97zmMt",
     "rich_text_dUzLTg",
     "before_after_image_EMRXGH",
