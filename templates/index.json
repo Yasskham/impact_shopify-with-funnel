@@ -114,7 +114,7 @@
       ],
       "custom_css": [
         ".images-scrolling-mobile__item img {margin: 0 auto;}",
-        ".h1 {font-size:18px; text-align:center;}"
+        ".h1 {font-size: 18px; text-align: center;}"
       ],
       "name": "Images and text scrolling",
       "settings": {
@@ -351,7 +351,7 @@
         "text_4yEmFE": {
           "type": "text",
           "settings": {
-            "text": "<ul><li><strong>Fini les traits tremblants ou ratés</strong></li><li><strong>Gagnez du temps chaque matin</strong></li><li><strong>Ouvre et sublime tous les regards</strong></li></ul><p></p>"
+            "text": "<ul><li><strong>Fini les traits tremblants ou ratés</strong></li><li><strong>Gagnez du temps chaque matin</strong></li><li><strong>Ouvre et sublime tous les regards</strong></li><li><strong>Résiste à l’eau, chaleur et transpiration</strong></li></ul><p></p>"
           }
         },
         "rating_qRGMtL": {
