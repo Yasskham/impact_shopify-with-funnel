@@ -112,6 +112,10 @@
       "block_order": [
         "item_wjn4q9"
       ],
+      "custom_css": [
+        ".images-scrolling-mobile__item img {margin: 0 auto;}",
+        ".h1 {font-size:18px; text-align:center;}"
+      ],
       "name": "Images and text scrolling",
       "settings": {
         "full_width": true,
