@@ -15,7 +15,7 @@
         "heading_ejUzny": {
           "type": "heading",
           "settings": {
-            "text": "Ton regard envoûte. Chaque trait est parfait en un geste.",
+            "text": "Sois remarquée en t'habillant distinguée",
             "heading_tag": "h4"
           }
         }
@@ -24,7 +24,7 @@
         "heading_ejUzny"
       ],
       "custom_css": [
-        ".place-self-end-center {position: absolute; bottom: 40px;}"
+        ".place-self-end-center {position: absolute; bottom: 800px;}"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -32,12 +32,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/glowush_overlay.png",
+        "image": "shopify://shop_images/20250905_2106_Fond_Couleur_Unique_remix_01k4dm7r8pe1vt69fx03exfwtf.png",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "overlay_opacity": 7
       }
     },
     "rich_text_D9BbFH": {
@@ -46,8 +46,8 @@
         "heading_7BGiMt": {
           "type": "heading",
           "settings": {
-            "text": "On parle de nous :",
-            "heading_tag": "h3",
+            "text": "Vu sur :",
+            "heading_tag": "h5",
             "text_color": "",
             "gradient": ""
           }
@@ -55,6 +55,9 @@
       },
       "block_order": [
         "heading_7BGiMt"
+      ],
+      "custom_css": [
+        "/* Supprimer le gras dans les zones de Rich Text */.rich-text,.rich-text p,.rich-text span,.rich-text strong,.rich-text b {font-weight: normal !important;}"
       ],
       "name": "Rich text",
       "settings": {
@@ -79,122 +82,51 @@
         "text_color": ""
       }
     },
-    "custom_liquid_6ei8eH": {
-      "type": "custom-liquid",
-      "custom_css": [
-        "h2 {font-size: 20px; line-height: 20px; font-weight: bold; text-align: center;}"
-      ],
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<h2>Ce que Glowush change  dans votre quotidien</h2>\n<br>\n<img src=\"https://cdn.shopify.com/s/files/1/0923/2410/2519/files/cable_26.png?v=1751033441\" width=\"100%\"/>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "images_with_text_scrolling_NE6cDD": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_wjn4q9": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1f73fc0455d235c8db3d2fa7f4c96d20.webp",
-            "icon": "none",
-            "icon_width": 52,
-            "title": "Précision Pro, Application Ultra Facile",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_wjn4q9"
-      ],
-      "custom_css": [
-        ".images-scrolling-mobile__item img {margin: 0 auto;}",
-        ".h1 {font-size: 18px; text-align: center;}"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "video_97zmMt": {
-      "type": "video",
-      "disabled": true,
-      "name": "Video",
+    "image_with_text_overlay_4i78Uz": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/2371a35abf3943fb8a5129d224aabff3.HD-720p-4.5Mbps-49762679_1754455d-d050-4742-ae81-101ad50f97d5.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Votre_texte_de_paragraphe_25.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
     },
-    "rich_text_dUzLTg": {
-      "type": "rich-text",
+    "images_with_text_scrolling_6mtVMp": {
+      "type": "images-with-text-scrolling",
       "blocks": {
-        "heading_fTwCT3": {
-          "type": "heading",
+        "item_J6ekKM": {
+          "type": "item",
           "settings": {
-            "text": "Avant / Après : Un geste, un miracle",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
+            "image": "shopify://shop_images/db17f2f727d9db0eea7bc1d0538591d5736f76fd.webp",
+            "icon": "none",
+            "icon_width": 36,
+            "title": "Sois remarquée en t'habillant distinguée",
+            "content": ""
           }
         }
       },
       "block_order": [
-        "heading_fTwCT3"
+        "item_J6ekKM"
       ],
-      "name": "Rich text",
+      "name": "Images and text scrolling",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "before_after_image_EMRXGH": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "before_image": "shopify://shop_images/ChatGPT_Image_20_juin_2025_19_32_41.png",
-        "after_image": "shopify://shop_images/ChatGPT_Image_20_juin_2025_19_41_23.png",
-        "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 30,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "multi_column_LUYayJ": {
@@ -294,7 +226,7 @@
         "gap": "small",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Leur avis, notre plus belle preuve",
+        "title": "",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -698,11 +630,8 @@
     "image_with_text_overlay_KeqeEw",
     "rich_text_D9BbFH",
     "custom_liquid_Tjw38M",
-    "custom_liquid_6ei8eH",
-    "images_with_text_scrolling_NE6cDD",
-    "video_97zmMt",
-    "rich_text_dUzLTg",
-    "before_after_image_EMRXGH",
+    "image_with_text_overlay_4i78Uz",
+    "images_with_text_scrolling_6mtVMp",
     "multi_column_LUYayJ",
     "featured_product_X9BJic",
     "scrolling_text_naVUq4",

@@ -66,9 +66,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/logo_glowush.png",
-        "logo_max_width": 230,
-        "logo_mobile_max_width": 135,
+        "logo": "shopify://shop_images/et_2.png",
+        "logo_max_width": 135,
+        "logo_mobile_max_width": 95,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
