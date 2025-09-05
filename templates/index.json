@@ -129,6 +129,49 @@
         "heading_gradient": ""
       }
     },
+    "multiple_images_with_text_Wdfkx3": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_XpGYrh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ab2ad0a28813769be627c299d3797c43536b2f15-1200_1.avif",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Votre couleur parfaite vous attend",
+            "content": "",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_pwxcFV": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_XpGYrh",
+        "item_pwxcFV"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "featured_product_X9BJic": {
       "type": "featured-product",
       "blocks": {
@@ -528,6 +571,7 @@
     "custom_liquid_Tjw38M",
     "image_with_text_overlay_4i78Uz",
     "images_with_text_scrolling_6mtVMp",
+    "multiple_images_with_text_Wdfkx3",
     "featured_product_X9BJic",
     "scrolling_text_naVUq4",
     "tabs_XFNJJV",
