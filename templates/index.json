@@ -129,110 +129,6 @@
         "heading_gradient": ""
       }
     },
-    "multi_column_LUYayJ": {
-      "type": "multi-column",
-      "blocks": {
-        "item_DVR9jj": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/nancy_259ac2b7-bcab-4c62-a668-ec796da1fcb4.png",
-            "column_size": "3",
-            "title": "Nancy",
-            "heading_tag": "h4",
-            "content": "<p>\"Mon regard est tout de suite plus ouvert. Les cils sont bien liftés, l’effet est net dès la première utilisation. Je ne m’en passe plus.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_xFUnQq": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-20_a_20.38.40_a440fb04-58f4-46f8-8491-dd9f4d74b1b7.png",
-            "column_size": "3",
-            "title": "Aurélie",
-            "heading_tag": "h4",
-            "content": "<p>\"Je l’utilise chaque matin, et mes cils tombent moins. Ils sont plus souples et résistants, même après le mascara.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_HWGLUj": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-20_a_20.42.00_177df2ea-8a5b-4d93-b3f3-b26659a2df9e.png",
-            "column_size": "3",
-            "title": "Kamélia",
-            "heading_tag": "h4",
-            "content": "<p>\"Il donne du volume sans faire fake. Mes cils ont l’air plus fournis mais restent naturels. Beaucoup mieux qu’un recourbe-cils classique !\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_jcLRgN": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-20_a_20.45.16_33368476-c25f-4d44-8773-6fbad0ae4a8d.png",
-            "column_size": "3",
-            "title": "Fanny",
-            "heading_tag": "h4",
-            "content": "<p>\"Courbure parfaite et qui tient toute la journée. Je ne pensais pas qu’un outil chauffant pouvait faire une si grande différence.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_HArBXi": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-20_a_20.40.38_d3aaa714-7c7d-4b46-8e1f-f840686ddce9.png",
-            "column_size": "3",
-            "title": "Brigitte",
-            "heading_tag": "h4",
-            "content": "<p>\"Super tenue toute la journée, même en été ! Application facile, résultat pro. Je le recommande à toutes mes amies.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_6jYbgX": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-20_a_20.46.05_324aaf45-3aa3-4fba-b511-eb76ffc6d16b.png",
-            "column_size": "3",
-            "title": "Sara",
-            "heading_tag": "h4",
-            "content": "<p><strong>\"</strong>Finition professionnelle à chaque utilisation. Léger, précis, et super agréable sur la peau. Mon indispensable beauté !\"</p><p></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_DVR9jj",
-        "item_xFUnQq",
-        "item_HWGLUj",
-        "item_jcLRgN",
-        "item_HArBXi",
-        "item_6jYbgX"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "small",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "featured_product_X9BJic": {
       "type": "featured-product",
       "blocks": {
@@ -632,7 +528,6 @@
     "custom_liquid_Tjw38M",
     "image_with_text_overlay_4i78Uz",
     "images_with_text_scrolling_6mtVMp",
-    "multi_column_LUYayJ",
     "featured_product_X9BJic",
     "scrolling_text_naVUq4",
     "tabs_XFNJJV",
