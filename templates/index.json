@@ -476,34 +476,6 @@
         "accordion_text_color": ""
       }
     },
-    "1751011715f4e7bed4": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_abXHra": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "glowush",
-            "aggregated": true,
-            "data-limit": 16,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_abXHra"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "contact_VrJ4iy": {
       "type": "contact",
       "name": "Contact form",
@@ -576,7 +548,6 @@
     "scrolling_text_naVUq4",
     "tabs_XFNJJV",
     "faq_fL4TNB",
-    "1751011715f4e7bed4",
     "contact_VrJ4iy",
     "1751032672f432be84"
   ]
