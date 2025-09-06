@@ -251,7 +251,7 @@
         "text_4yEmFE": {
           "type": "text",
           "settings": {
-            "text": "<ul><li><strong>Fini les traits tremblants ou ratés</strong></li><li><strong>Gagnez du temps chaque matin</strong></li><li><strong>Ouvre et sublime tous les regards</strong></li><li><strong>Résiste à l’eau, chaleur et transpiration</strong></li></ul><p></p>"
+            "text": "<p><strong>S'adapte à tous les styles</strong></p><p><strong>Cachemire premium durable</strong></p><p><strong>Facile à porter et assortir</strong></p><p><strong>Confort toute la journée</strong></p>"
           }
         },
         "rating_qRGMtL": {
@@ -286,12 +286,6 @@
             "payment_button_text_color": "#1a1a1a"
           }
         },
-        "liquid_QVgyqY": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px; margin-top: 20px; overflow-x: auto;\">\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/d82eb478612a441e8b64b282ef038758.mp4\" \n         autoplay \n         muted \n         loop \n         playsinline \n         style=\"width: 22%; aspect-ratio: 9/16; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);\">\n  </video>\n\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/6940310cc1944ce1baac0485407d63a3.mp4\" \n         autoplay \n         muted \n         loop \n         playsinline \n         style=\"width: 22%; aspect-ratio: 9/16; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);\">\n  </video>\n\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/a62006755dd64704b425bb0af809325b.mp4\" \n         autoplay \n         muted \n         loop \n         playsinline \n         style=\"width: 22%; aspect-ratio: 9/16; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);\">\n  </video>\n\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/bb24831dccad4cac9fffecc8a3e11f31.mp4\" \n         autoplay \n         muted \n         loop \n         playsinline \n         style=\"width: 22%; aspect-ratio: 9/16; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);\">\n  </video>\n</div>"
-          }
-        },
         "image_eV9qAP": {
           "type": "image",
           "settings": {
@@ -321,7 +315,6 @@
         "variant_picker_8PYyCr",
         "quantity_selector_gkCmqX",
         "buy_buttons_qUbeWB",
-        "liquid_QVgyqY",
         "image_eV9qAP",
         "image_tHBnPQ",
         "pickup_availability_jaEUN4"
