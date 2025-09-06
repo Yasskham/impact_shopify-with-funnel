@@ -300,6 +300,14 @@
             "max_width": 460
           }
         },
+        "image_zckRwf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/STOCK_LIMITE_Profitez_de_l_offre_d_ete_EXCLUSIVE_-50_avant_rupture_1.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "pickup_availability_jaEUN4": {
           "type": "pickup_availability",
           "settings": {}
@@ -317,6 +325,7 @@
         "buy_buttons_qUbeWB",
         "image_eV9qAP",
         "image_tHBnPQ",
+        "image_zckRwf",
         "pickup_availability_jaEUN4"
       ],
       "name": "Featured product",
