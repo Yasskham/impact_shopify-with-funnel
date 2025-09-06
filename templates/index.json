@@ -360,63 +360,6 @@
         "text_gradient": ""
       }
     },
-    "tabs_XFNJJV": {
-      "type": "tabs",
-      "blocks": {
-        "tab_rY7wx8": {
-          "type": "tab",
-          "settings": {
-            "title": "Caracteristiques",
-            "content": "<p><strong>Glowush</strong> est une dessinateur de cil  léger avec applicateur  en silicone. Elle unifie le teint, camoufle imperfections, hydrate et protège la peau. Sa texture douce offre un fini naturel, longue tenue, sans effet gras. Adaptée à tous types de peau, elle garantit un teint éclatant en un seul geste.</p>",
-            "page": ""
-          }
-        },
-        "tab_cYmnjb": {
-          "type": "tab",
-          "settings": {
-            "title": "Essayez-le 30 jours gratuitement",
-            "content": "<p>Essayez Glowush gratuitement pendant 30 jours ! Découvrez son pouvoir unifiant, sa texture légère et son fini naturel. Votre teint parfait sans effort, sans engagement. Adoptez Glowush, vous allez adorer.</p>",
-            "page": ""
-          }
-        },
-        "tab_cikwxf": {
-          "type": "tab",
-          "settings": {
-            "title": "Livraison offerte a domicile",
-            "content": "<p>Profitez de Glowush avec la <strong>livraison offerte à domicile</strong> ! Recevez votre teint parfait directement chez vous, sans frais supplémentaires. Simple, rapide, pratique : Glowush prend soin de votre peau et de vous.</p>",
-            "page": ""
-          }
-        },
-        "tab_cYgYzg": {
-          "type": "tab",
-          "settings": {
-            "title": "Service client 7j/7",
-            "content": "<p>Notre service client est disponible 7j/7 pour vous accompagner.<br/><br/>📞 Lundi au vendredi : 9h–12h / 12h–18h<br/><br/>📞 Samedi & dimanche : 11h–14h<br/><br/>Avec <strong>Glowush</strong>, vous n’êtes jamais seule.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_rY7wx8",
-        "tab_cYmnjb",
-        "tab_cikwxf",
-        "tab_cYgYzg"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "text_alignment": "center",
-        "first_tab_open": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "faq_fL4TNB": {
       "type": "faq",
       "blocks": {
@@ -471,6 +414,7 @@
         "item_mig7pp",
         "item_yk4ekz"
       ],
+      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
@@ -537,7 +481,6 @@
     "multi_column_n4mmaJ",
     "featured_product_X9BJic",
     "scrolling_text_naVUq4",
-    "tabs_XFNJJV",
     "faq_fL4TNB",
     "contact_VrJ4iy",
     "1751032672f432be84"
