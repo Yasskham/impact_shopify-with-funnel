@@ -17,7 +17,7 @@
         "message_VKdX8q": {
           "type": "message",
           "settings": {
-            "text": "Offre summer limitée, jusqu'à -50%",
+            "text": "Offre d'été limitée, jusqu'à -50%",
             "url": ""
           }
         },
@@ -67,7 +67,7 @@
         "enable_sticky": true,
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/et_2.png",
-        "logo_max_width": 135,
+        "logo_max_width": 210,
         "logo_mobile_max_width": 95,
         "menu": "main-menu",
         "sidebar_menu": "",
