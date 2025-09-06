@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "text": "Sois remarquée en t'habillant distinguée",
-            "heading_tag": "h4"
+            "heading_tag": "h5"
           }
         }
       },
@@ -24,7 +24,7 @@
         "heading_ejUzny"
       ],
       "custom_css": [
-        ".place-self-end-center {position: absolute; bottom: 600px;}"
+        ".place-self-end-center {position: absolute; bottom: 100px;}"
       ],
       "name": "Image with text overlay",
       "settings": {
