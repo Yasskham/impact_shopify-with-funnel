@@ -98,6 +98,35 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_JEMPxf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AfDWNg": {
+          "type": "heading",
+          "settings": {
+            "text": "De fatiguée à rayonnante en 1 mois",
+            "heading_tag": "h6",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_AfDWNg"
+      ],
+      "custom_css": [
+        "/* Supprimer le gras dans les zones de Rich Text */.rich-text,.rich-text p,.rich-text span,.rich-text strong,.rich-text b {font-weight: normal !important;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "before_after_image_xDrUjy": {
       "type": "before-after-image",
       "name": "Before/after image",
@@ -454,6 +483,7 @@
     "rich_text_D9BbFH",
     "custom_liquid_Tjw38M",
     "image_with_text_overlay_4i78Uz",
+    "rich_text_JEMPxf",
     "before_after_image_xDrUjy",
     "multi_column_n4mmaJ",
     "featured_product_X9BJic",
