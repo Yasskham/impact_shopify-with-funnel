@@ -32,7 +32,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/20250905_2106_Fond_Couleur_Unique_remix_01k4dm7r8pe1vt69fx03exfwtf.png",
+        "image": "shopify://shop_images/f2b517251b221056d7d268b9b412ddae.jpg",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
@@ -90,7 +90,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Votre_texte_de_paragraphe_26.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -104,7 +103,6 @@
         "item_J6ekKM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/db17f2f727d9db0eea7bc1d0538591d5736f76fd.webp",
             "icon": "none",
             "icon_width": 36,
             "title": "Sois remarquée en t'habillant distinguée",
@@ -136,7 +134,6 @@
         "item_XpGYrh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ab2ad0a28813769be627c299d3797c43536b2f15-1200_1.avif",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Votre couleur parfaite vous attend",
@@ -167,7 +164,6 @@
         "item_LtJHXA": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/20250906_1700_Femme_en_Poncho_Chic_remix_01k4frhaxcezht5eepcg25yj2q.png",
             "column_size": "3",
             "title": "Moderne, élégant et polyvalent",
             "heading_tag": "h5",
@@ -180,7 +176,6 @@
         "item_UefVMG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/20250906_1846_Elegance_Jeune_Femme_remix_01k4fykw2xepq849cs64d5gf9t.png",
             "column_size": "3",
             "title": "Luxueux chaleureux et doux",
             "heading_tag": "h5",
@@ -193,7 +188,6 @@
         "item_y8Gnqd": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/assets_task_01k4ft148yfvp8evg4pndjc18c_1757172373_img_0.webp",
             "column_size": "3",
             "title": "Indispensable, sophistiqué et confortable",
             "heading_tag": "h5",
@@ -303,7 +297,6 @@
         "image_zckRwf": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/STOCK_LIMITE_Profitez_de_l_offre_d_ete_EXCLUSIVE_-50_avant_rupture_1.png",
             "alignment": "center",
             "max_width": 500
           }
