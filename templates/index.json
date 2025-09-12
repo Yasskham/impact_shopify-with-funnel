@@ -345,12 +345,27 @@
           "type": "pickup_availability",
           "settings": {}
         },
+        "image_qLiC7b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-12_a_18.02.08.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "image_MzYxFk": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/assets_task_01k4ytxqjret2sd51ngnp8em8n_1757676622_img_1.webp",
             "alignment": "center",
-            "max_width": 410
+            "max_width": 500
+          }
+        },
+        "image_rAD4x8": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 370
           }
         }
       },
@@ -368,12 +383,14 @@
         "image_tHBnPQ",
         "image_zckRwf",
         "pickup_availability_jaEUN4",
-        "image_MzYxFk"
+        "image_qLiC7b",
+        "image_MzYxFk",
+        "image_rAD4x8"
       ],
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "chale-uni-melina",
+        "product": "shot-collagene",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
