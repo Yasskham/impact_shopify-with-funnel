@@ -129,6 +129,7 @@
         "item_LtJHXA": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/smart-collagen-shot-collageen-supplements-insentials.webp",
             "column_size": "3",
             "title": "Moderne, élégant et polyvalent",
             "heading_tag": "h5",
@@ -141,6 +142,7 @@
         "item_UefVMG": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/insentials-supplements-smart-collagen-91_-opneembaar.jpg",
             "column_size": "3",
             "title": "Luxueux chaleureux et doux",
             "heading_tag": "h5",
@@ -153,10 +155,24 @@
         "item_y8Gnqd": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/insentials-supplements-collagen-shot-10g-rundscollagen.webp",
             "column_size": "3",
             "title": "Indispensable, sophistiqué et confortable",
             "heading_tag": "h5",
             "content": "<p> </p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_j6jqAQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/insentials-collageen-shot-anti-aging-haar-nagels.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -166,7 +182,8 @@
       "block_order": [
         "item_LtJHXA",
         "item_UefVMG",
-        "item_y8Gnqd"
+        "item_y8Gnqd",
+        "item_j6jqAQ"
       ],
       "name": "Multi-column",
       "settings": {
