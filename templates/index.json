@@ -98,34 +98,29 @@
         "overlay_opacity": 0
       }
     },
-    "multiple_images_with_text_Wdfkx3": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_XpGYrh": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Votre couleur parfaite vous attend",
-            "content": "",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_XpGYrh"
-      ],
-      "name": "Multiple images with text",
+    "before_after_image_xDrUjy": {
+      "type": "before-after-image",
+      "name": "Before/after image",
       "settings": {
         "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
+        "subheading": "",
+        "title": "",
+        "content": "<p> </p>",
+        "before_image": "shopify://shop_images/Capture_d_ecran_2025-09-12_a_12.43.50.png",
+        "after_image": "shopify://shop_images/Capture_d_ecran_2025-09-12_a_12.44.18.png",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "multi_column_n4mmaJ": {
@@ -442,7 +437,7 @@
     "rich_text_D9BbFH",
     "custom_liquid_Tjw38M",
     "image_with_text_overlay_4i78Uz",
-    "multiple_images_with_text_Wdfkx3",
+    "before_after_image_xDrUjy",
     "multi_column_n4mmaJ",
     "featured_product_X9BJic",
     "scrolling_text_naVUq4",
