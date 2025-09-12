@@ -90,43 +90,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Investis_en_toi_maintenant_et_pour_longtemps.png",
+        "image": "shopify://shop_images/Investis_en_toi_maintenant_et_pour_longtemps_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "images_with_text_scrolling_6mtVMp": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_J6ekKM": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 36,
-            "title": "Sois remarquée en t'habillant distinguée",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_J6ekKM"
-      ],
-      "custom_css": [],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
       }
     },
     "multiple_images_with_text_Wdfkx3": {
@@ -473,7 +442,6 @@
     "rich_text_D9BbFH",
     "custom_liquid_Tjw38M",
     "image_with_text_overlay_4i78Uz",
-    "images_with_text_scrolling_6mtVMp",
     "multiple_images_with_text_Wdfkx3",
     "multi_column_n4mmaJ",
     "featured_product_X9BJic",
