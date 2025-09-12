@@ -347,6 +347,14 @@
             "max_width": 500
           }
         },
+        "image_erTqPp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-09-12_a_18.08.25.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "image_MzYxFk": {
           "type": "image",
           "settings": {
@@ -377,6 +385,7 @@
         "image_zckRwf",
         "pickup_availability_jaEUN4",
         "image_qLiC7b",
+        "image_erTqPp",
         "image_MzYxFk",
         "image_rAD4x8"
       ],
