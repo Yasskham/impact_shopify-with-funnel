@@ -131,9 +131,9 @@
           "settings": {
             "image": "shopify://shop_images/smart-collagen-shot-collageen-supplements-insentials.webp",
             "column_size": "3",
-            "title": "Moderne, élégant et polyvalent",
+            "title": "Marine",
             "heading_tag": "h5",
-            "content": "",
+            "content": "<p>Plus besoin de fond de teint, ma peau rayonne naturellement et parfaitement chaque matin</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -144,9 +144,9 @@
           "settings": {
             "image": "shopify://shop_images/insentials-supplements-smart-collagen-91_-opneembaar.jpg",
             "column_size": "3",
-            "title": "Luxueux chaleureux et doux",
+            "title": "Léa",
             "heading_tag": "h5",
-            "content": "<p> </p>",
+            "content": "<p> Ma confiance a explosé depuis que je bois ce collagène, effet visible immédiatement.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -157,9 +157,9 @@
           "settings": {
             "image": "shopify://shop_images/insentials-supplements-collagen-shot-10g-rundscollagen.webp",
             "column_size": "3",
-            "title": "Indispensable, sophistiqué et confortable",
+            "title": "Catherine",
             "heading_tag": "h5",
-            "content": "<p> </p>",
+            "content": "<p> Fini l'angoisse des premières rides, je me sens enfin libre et épanouie à quarante ans</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -170,9 +170,9 @@
           "settings": {
             "image": "shopify://shop_images/insentials-collageen-shot-anti-aging-haar-nagels.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Sarah",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Meilleur investissement beauté de ma vie, résultats durables garantis.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
