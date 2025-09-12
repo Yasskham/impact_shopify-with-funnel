@@ -152,6 +152,35 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "rich_text_X6GgqX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JVXiAX": {
+          "type": "heading",
+          "settings": {
+            "text": "4 témoignages 1 mois après",
+            "heading_tag": "h6",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_JVXiAX"
+      ],
+      "custom_css": [
+        "/* Supprimer le gras dans les zones de Rich Text */.rich-text,.rich-text p,.rich-text span,.rich-text strong,.rich-text b {font-weight: normal !important;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_n4mmaJ": {
       "type": "multi-column",
       "blocks": {
@@ -485,6 +514,7 @@
     "image_with_text_overlay_4i78Uz",
     "rich_text_JEMPxf",
     "before_after_image_xDrUjy",
+    "rich_text_X6GgqX",
     "multi_column_n4mmaJ",
     "featured_product_X9BJic",
     "scrolling_text_naVUq4",
