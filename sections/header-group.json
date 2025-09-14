@@ -56,7 +56,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#354670",
+        "background": "#455b6e",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -66,8 +66,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo_max_width": 210,
-        "logo_mobile_max_width": 95,
+        "logo": "shopify://shop_images/logo_sublimiphy_2.png",
+        "logo_max_width": 260,
+        "logo_mobile_max_width": 170,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
