@@ -245,6 +245,82 @@
         "text_color": ""
       }
     },
+    "multi_column_GKHTF6": {
+      "type": "multi-column",
+      "blocks": {
+        "item_LRAifa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1.webp",
+            "column_size": "3",
+            "title": "Marine",
+            "heading_tag": "h5",
+            "content": "<p>Plus besoin de fond de teint, ma peau rayonne naturellement et parfaitement chaque matin</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_a4p7G4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/insentials-supplements-smart-collagen-91_-opneembaar.jpg",
+            "column_size": "3",
+            "title": "Léa",
+            "heading_tag": "h5",
+            "content": "<p> Ma confiance a explosé depuis que je bois ce collagène, effet visible immédiatement.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_iJMr7q": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/insentials-supplements-collagen-shot-10g-rundscollagen.webp",
+            "column_size": "3",
+            "title": "Catherine",
+            "heading_tag": "h5",
+            "content": "<p> Fini l'angoisse des premières rides, je me sens enfin libre et épanouie à quarante ans</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_4rx4nC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/insentials-collageen-shot-anti-aging-haar-nagels.jpg",
+            "column_size": "3",
+            "title": "Sarah",
+            "heading_tag": "h4",
+            "content": "<p>Meilleur investissement beauté de ma vie, résultats durables garantis.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_LRAifa",
+        "item_a4p7G4",
+        "item_iJMr7q",
+        "item_4rx4nC"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "<p> </p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_product_X9BJic": {
       "type": "featured-product",
       "blocks": {
@@ -532,6 +608,7 @@
     "before_after_image_xDrUjy",
     "rich_text_X6GgqX",
     "multi_column_n4mmaJ",
+    "multi_column_GKHTF6",
     "featured_product_X9BJic",
     "scrolling_text_naVUq4",
     "faq_fL4TNB",
