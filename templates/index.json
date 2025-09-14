@@ -251,7 +251,7 @@
         "item_LRAifa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1.webp",
+            "image": "shopify://shop_images/1.png",
             "column_size": "3",
             "title": "Marine",
             "heading_tag": "h5",
@@ -264,7 +264,7 @@
         "item_a4p7G4": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/insentials-supplements-smart-collagen-91_-opneembaar.jpg",
+            "image": "shopify://shop_images/3.png",
             "column_size": "3",
             "title": "Léa",
             "heading_tag": "h5",
