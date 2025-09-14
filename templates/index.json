@@ -11,18 +11,6 @@
   "sections": {
     "image_with_text_overlay_KeqeEw": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_ejUzny": {
-          "type": "heading",
-          "settings": {
-            "text": "Buvez votre dose quotidienne de jeunesse éternelle",
-            "heading_tag": "h5"
-          }
-        }
-      },
-      "block_order": [
-        "heading_ejUzny"
-      ],
       "custom_css": [
         ".place-self-end-center {position: absolute; bottom: 100px;}"
       ],
@@ -32,12 +20,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Votre_texte_de_paragraphe_1.png",
+        "image": "shopify://shop_images/Votre_texte_de_paragraphe.jpg",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 7
+        "overlay_opacity": 0
       }
     },
     "rich_text_D9BbFH": {
