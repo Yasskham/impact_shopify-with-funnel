@@ -86,6 +86,19 @@
         "overlay_opacity": 0
       }
     },
+    "custom_liquid_xhMxjJ": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div id=\"dosage-2col\">\n  <h3 class=\"title\">Recommandations de dosage par âge</h3>\n\n  <div class=\"table-wrapper\">\n    <table class=\"table\">\n      <thead>\n        <tr>\n          <th>Âge</th>\n          <th>Recommandation</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>Moins de 25 ans</td>\n          <td>2 shots/semaine + 1 capsule/jour</td>\n        </tr>\n        <tr>\n          <td>25–40 ans</td>\n          <td>3 shots/semaine + 1 capsule/jour</td>\n        </tr>\n        <tr>\n          <td>40–50 ans</td>\n          <td>5 shots/semaine + 1 capsule/jour</td>\n        </tr>\n        <tr>\n          <td>50+ ans</td>\n          <td>1 shot/jour + 1 capsule/jour</td>\n        </tr>\n      </tbody>\n    </table>\n  </div>\n</div>\n\n<style>\n  #dosage-2col{\n    --primary:#455B6E;\n    --border:#D8DEE4;\n    --head:#455B6E;\n    --head-text:#ffffff;\n    font-size:14px;\n  }\n  #dosage-2col .title{\n    margin:0 0 12px;\n    text-align:center;\n    color:var(--primary);\n    font-weight:700;\n    font-size:18px;\n  }\n  #dosage-2col .table-wrapper{\n    padding: 0 12px;\n    max-width: 600px;   /* plus étroit que la version 3 colonnes */\n    margin: 0 auto;\n  }\n  #dosage-2col .table{\n    width:100%;\n    border-collapse:collapse;\n    border:1px solid var(--border);\n    border-radius:8px;\n    overflow:hidden;\n    background:#fff;\n  }\n  #dosage-2col thead th{\n    background:var(--head);\n    color:var(--head-text);\n    text-align:left;\n    padding:10px 12px;\n    font-weight:700;\n    font-size:14px;\n  }\n  #dosage-2col td{\n    padding:10px 12px;\n    border-top:1px solid var(--border);\n    vertical-align:middle;\n  }\n  #dosage-2col tbody tr:nth-child(even){ background:#F7F9FB; }\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_JEMPxf": {
       "type": "rich-text",
       "blocks": {
@@ -240,19 +253,6 @@
         "subheading": "",
         "title": "",
         "content": "<p> </p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "custom_liquid_7FPrmT": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div id=\"dosage-compact\">\n  <h3 class=\"title\">Recommandations de dosage par âge</h3>\n\n  <div class=\"table-wrapper\">\n    <div class=\"table-scroll\">\n      <table class=\"table\">\n        <thead>\n          <tr>\n            <th>Âge</th>\n            <th>Smart Collagen shot</th>\n            <th>Inner Beauty</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td>Moins de 25 ans</td>\n            <td>2 shots/semaine</td>\n            <td>1 capsule/jour</td>\n          </tr>\n          <tr>\n            <td>25–40 ans</td>\n            <td>3 shots/semaine</td>\n            <td>1 capsule/jour</td>\n          </tr>\n          <tr>\n            <td>40–50 ans</td>\n            <td>5 shots/semaine</td>\n            <td>1 capsule/jour</td>\n          </tr>\n          <tr>\n            <td>50+ ans</td>\n            <td>1 shot/jour</td>\n            <td>1 capsule/jour</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </div>\n</div>\n\n<style>\n  #dosage-compact{\n    --primary:#455B6E;\n    --border:#D8DEE4;\n    --head:#455B6E;\n    --head-text:#ffffff;\n    font-size:14px;\n  }\n  #dosage-compact .title{\n    margin:0 0 12px;\n    text-align:center;\n    color:var(--primary);\n    font-weight:700;\n    font-size:18px;\n  }\n\n  /* conteneur avec marges latérales */\n  #dosage-compact .table-wrapper{\n    padding: 0 12px;      /* marge intérieure gauche/droite */\n    max-width: 720px;     /* largeur max pour éviter que ça s’étale trop */\n    margin: 0 auto;       /* centre le bloc */\n  }\n\n  /* scroll horizontal seulement si nécessaire */\n  #dosage-compact .table-scroll{\n    width:100%;\n    overflow-x:auto;\n  }\n\n  #dosage-compact .table{\n    width:100%;\n    min-width:400px;      /* garde de l’espace pour les colonnes */\n    border-collapse:collapse;\n    border:1px solid var(--border);\n    border-radius:8px;\n    overflow:hidden;\n    table-layout:auto;\n    background:#fff;\n  }\n  #dosage-compact thead th{\n    background:var(--head);\n    color:var(--head-text);\n    text-align:left;\n    padding:10px 12px;\n    font-weight:700;\n    white-space:nowrap;\n    font-size:14px;\n  }\n  #dosage-compact td{\n    padding:10px 12px;\n    border-top:1px solid var(--border);\n    vertical-align:middle;\n    white-space:nowrap;\n  }\n  #dosage-compact tbody tr:nth-child(even){ background:#F7F9FB; }\n</style>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -416,6 +416,12 @@
           "type": "pickup_availability",
           "settings": {}
         },
+        "liquid_gKfFrA": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "image_qLiC7b": {
           "type": "image",
           "settings": {
@@ -461,6 +467,7 @@
         "image_tHBnPQ",
         "image_zckRwf",
         "pickup_availability_jaEUN4",
+        "liquid_gKfFrA",
         "image_qLiC7b",
         "image_erTqPp",
         "image_MzYxFk",
@@ -617,11 +624,11 @@
     "rich_text_D9BbFH",
     "custom_liquid_Tjw38M",
     "image_with_text_overlay_4i78Uz",
+    "custom_liquid_xhMxjJ",
     "rich_text_JEMPxf",
     "before_after_image_xDrUjy",
     "rich_text_X6GgqX",
     "multi_column_n4mmaJ",
-    "custom_liquid_7FPrmT",
     "multi_column_GKHTF6",
     "featured_product_X9BJic",
     "scrolling_text_naVUq4",
