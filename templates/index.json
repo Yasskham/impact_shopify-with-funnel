@@ -424,6 +424,7 @@
         },
         "image_qLiC7b": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2025-09-12_a_18.02.08.png",
             "alignment": "center",
