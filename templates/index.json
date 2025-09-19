@@ -580,27 +580,6 @@
         "accordion_text_color": ""
       }
     },
-    "contact_VrJ4iy": {
-      "type": "contact",
-      "name": "Contact form",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Une question ?",
-        "content": "<p>Écrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais</p>",
-        "text_position": "center",
-        "contact_form_size": "large",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "contact_background": "#ffffff",
-        "contact_text_color": "",
-        "button_background": "#c9a78f",
-        "button_text_color": ""
-      }
-    },
     "1751032672f432be84": {
       "type": "apps",
       "settings": {
@@ -627,7 +606,6 @@
     "custom_liquid_xhMxjJ",
     "scrolling_text_naVUq4",
     "faq_fL4TNB",
-    "contact_VrJ4iy",
     "1751032672f432be84"
   ]
 }
