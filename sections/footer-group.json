@@ -59,6 +59,7 @@
         "item_nQUtpG",
         "item_WqymXa"
       ],
+      "disabled": true,
       "name": "Text with icons",
       "settings": {
         "full_width": true,
