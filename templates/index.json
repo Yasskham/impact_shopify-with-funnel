@@ -439,14 +439,6 @@
             "max_width": 500
           }
         },
-        "image_MzYxFk": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/assets_task_01k4ytxqjret2sd51ngnp8em8n_1757676622_img_1.webp",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
         "image_rAD4x8": {
           "type": "image",
           "settings": {
@@ -471,7 +463,6 @@
         "liquid_gKfFrA",
         "image_qLiC7b",
         "image_erTqPp",
-        "image_MzYxFk",
         "image_rAD4x8"
       ],
       "name": "Featured product",
@@ -625,13 +616,13 @@
     "rich_text_D9BbFH",
     "custom_liquid_Tjw38M",
     "image_with_text_overlay_4i78Uz",
-    "custom_liquid_xhMxjJ",
     "rich_text_JEMPxf",
     "before_after_image_xDrUjy",
     "rich_text_X6GgqX",
     "multi_column_n4mmaJ",
     "multi_column_GKHTF6",
     "featured_product_X9BJic",
+    "custom_liquid_xhMxjJ",
     "scrolling_text_naVUq4",
     "faq_fL4TNB",
     "contact_VrJ4iy",
