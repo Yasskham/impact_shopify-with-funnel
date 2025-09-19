@@ -86,19 +86,6 @@
         "overlay_opacity": 0
       }
     },
-    "custom_liquid_xhMxjJ": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div id=\"dosage-2col\">\n  <h3 class=\"title\">Recommandations de dosage par âge</h3>\n\n  <div class=\"table-wrapper\">\n    <table class=\"table\">\n      <thead>\n        <tr>\n          <th>Âge</th>\n          <th>Recommandation</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>Moins de 25 ans</td>\n          <td>2 shots/semaine </td>\n        </tr>\n        <tr>\n          <td>25–40 ans</td>\n          <td>3 shots/semaine </td>\n        </tr>\n        <tr>\n          <td>40–50 ans</td>\n          <td>5 shots/semaine </td>\n        </tr>\n        <tr>\n          <td>50+ ans</td>\n          <td>1 shot/jour </td>\n        </tr>\n      </tbody>\n    </table>\n  </div>\n</div>\n\n<style>\n  #dosage-2col{\n    --primary:#455B6E;\n    --border:#D8DEE4;\n    --head:#455B6E;\n    --head-text:#ffffff;\n    font-size:14px;\n  }\n  #dosage-2col .title{\n    margin:0 0 12px;\n    text-align:center;\n    color:var(--primary);\n    font-weight:700;\n    font-size:18px;\n  }\n  #dosage-2col .table-wrapper{\n    padding: 0 12px;\n    max-width: 600px;   /* plus étroit que la version 3 colonnes */\n    margin: 0 auto;\n  }\n  #dosage-2col .table{\n    width:100%;\n    border-collapse:collapse;\n    border:1px solid var(--border);\n    border-radius:8px;\n    overflow:hidden;\n    background:#fff;\n  }\n  #dosage-2col thead th{\n    background:var(--head);\n    color:var(--head-text);\n    text-align:left;\n    padding:10px 12px;\n    font-weight:700;\n    font-size:14px;\n  }\n  #dosage-2col td{\n    padding:10px 12px;\n    border-top:1px solid var(--border);\n    vertical-align:middle;\n  }\n  #dosage-2col tbody tr:nth-child(even){ background:#F7F9FB; }\n</style>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "rich_text_JEMPxf": {
       "type": "rich-text",
       "blocks": {
@@ -433,6 +420,7 @@
         },
         "image_erTqPp": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2025-09-12_a_18.08.25.png",
             "alignment": "center",
@@ -471,9 +459,9 @@
         "product": "shot-collagene",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
+        "mobile_media_size": "contained",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": false,
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
@@ -482,6 +470,19 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "custom_liquid_xhMxjJ": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div id=\"dosage-2col\">\n  <h3 class=\"title\">Recommandations de dosage par âge</h3>\n\n  <div class=\"table-wrapper\">\n    <table class=\"table\">\n      <thead>\n        <tr>\n          <th>Âge</th>\n          <th>Recommandation</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>Moins de 25 ans</td>\n          <td>2 shots/semaine </td>\n        </tr>\n        <tr>\n          <td>25–40 ans</td>\n          <td>3 shots/semaine </td>\n        </tr>\n        <tr>\n          <td>40–50 ans</td>\n          <td>5 shots/semaine </td>\n        </tr>\n        <tr>\n          <td>50+ ans</td>\n          <td>1 shot/jour </td>\n        </tr>\n      </tbody>\n    </table>\n  </div>\n</div>\n\n<style>\n  #dosage-2col{\n    --primary:#455B6E;\n    --border:#D8DEE4;\n    --head:#455B6E;\n    --head-text:#ffffff;\n    font-size:14px;\n  }\n  #dosage-2col .title{\n    margin:0 0 12px;\n    text-align:center;\n    color:var(--primary);\n    font-weight:700;\n    font-size:18px;\n  }\n  #dosage-2col .table-wrapper{\n    padding: 0 12px;\n    max-width: 600px;   /* plus étroit que la version 3 colonnes */\n    margin: 0 auto;\n  }\n  #dosage-2col .table{\n    width:100%;\n    border-collapse:collapse;\n    border:1px solid var(--border);\n    border-radius:8px;\n    overflow:hidden;\n    background:#fff;\n  }\n  #dosage-2col thead th{\n    background:var(--head);\n    color:var(--head-text);\n    text-align:left;\n    padding:10px 12px;\n    font-weight:700;\n    font-size:14px;\n  }\n  #dosage-2col td{\n    padding:10px 12px;\n    border-top:1px solid var(--border);\n    vertical-align:middle;\n  }\n  #dosage-2col tbody tr:nth-child(even){ background:#F7F9FB; }\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "scrolling_text_naVUq4": {
