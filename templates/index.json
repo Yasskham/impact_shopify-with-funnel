@@ -368,6 +368,14 @@
           "disabled": true,
           "settings": {}
         },
+        "image_RA6jrD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/trust_celunia.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "buy_buttons_qUbeWB": {
           "type": "buy_buttons",
           "settings": {
@@ -444,6 +452,7 @@
         "rating_qRGMtL",
         "variant_picker_8PYyCr",
         "quantity_selector_gkCmqX",
+        "image_RA6jrD",
         "buy_buttons_qUbeWB",
         "image_eV9qAP",
         "image_tHBnPQ",
