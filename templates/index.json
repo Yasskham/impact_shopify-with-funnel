@@ -21,7 +21,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Ajouter_u.png",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
@@ -79,7 +78,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/gaine_CF_11.png",
+        "image": "shopify://shop_images/CurvaSud.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -124,8 +123,6 @@
         "subheading": "",
         "title": "",
         "content": "<p> </p>",
-        "before_image": "shopify://shop_images/ads_askip_marge_bien.png",
-        "after_image": "shopify://shop_images/ads_askip_marge_bien_2.png",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
@@ -176,7 +173,6 @@
         "item_LtJHXA": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/smart-collagen-shot-collageen-supplements-insentials.webp",
             "column_size": "3",
             "title": "Marine",
             "heading_tag": "h5",
@@ -189,7 +185,6 @@
         "item_UefVMG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/insentials-supplements-smart-collagen-91_-opneembaar.jpg",
             "column_size": "3",
             "title": "Léa",
             "heading_tag": "h5",
@@ -202,7 +197,6 @@
         "item_y8Gnqd": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/insentials-supplements-collagen-shot-10g-rundscollagen.webp",
             "column_size": "3",
             "title": "Catherine",
             "heading_tag": "h5",
@@ -215,7 +209,6 @@
         "item_KQTYp3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Generated_Image_September_27_2025_-_7_15PM.png",
             "column_size": "3",
             "title": "Clémence",
             "heading_tag": "h4",
@@ -228,7 +221,6 @@
         "item_j6jqAQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/insentials-collageen-shot-anti-aging-haar-nagels.jpg",
             "column_size": "3",
             "title": "Sarah",
             "heading_tag": "h4",
@@ -241,7 +233,6 @@
         "item_46jqfm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Generated_Image_September_25_2025_-_12_02PM.png",
             "column_size": "3",
             "title": "Annie",
             "heading_tag": "h4",
@@ -280,7 +271,6 @@
         "item_LRAifa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1.png",
             "column_size": "3",
             "title": "Marine",
             "heading_tag": "h5",
@@ -293,7 +283,6 @@
         "item_a4p7G4": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3.png",
             "column_size": "3",
             "title": "Léa",
             "heading_tag": "h5",
@@ -306,7 +295,6 @@
         "item_iJMr7q": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4.png",
             "column_size": "3",
             "title": "Catherine",
             "heading_tag": "h5",
@@ -319,7 +307,6 @@
         "item_4rx4nC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5.png",
             "column_size": "3",
             "title": "Sarah",
             "heading_tag": "h4",
@@ -400,7 +387,6 @@
         "image_RA6jrD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/trust_celunia.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -451,7 +437,6 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-09-12_a_18.02.08.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -460,7 +445,6 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-09-12_a_18.08.25.png",
             "alignment": "center",
             "max_width": 500
           }
