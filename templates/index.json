@@ -92,7 +92,7 @@
         "heading_AfDWNg": {
           "type": "heading",
           "settings": {
-            "text": "De peau fatiguée à rayonnante en 1 mois",
+            "text": "Trasformazione totale senza palestra, dieta o chirurgia estetica",
             "heading_tag": "h5",
             "text_color": "",
             "gradient": ""
@@ -123,12 +123,14 @@
         "subheading": "",
         "title": "",
         "content": "<p> </p>",
+        "before_image": "shopify://shop_images/Capture_d_ecran_2025-09-28_a_00.15.13.png",
+        "after_image": "shopify://shop_images/Capture_d_ecran_2025-09-28_a_00.16.04.png",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
         "before_text": "",
         "after_text": "",
-        "drag_initial_position": 50,
+        "drag_initial_position": 40,
         "background": "",
         "background_gradient": "",
         "text_color": "",
