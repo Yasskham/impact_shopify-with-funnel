@@ -176,6 +176,7 @@
         "item_LtJHXA": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/insentials-supplements-collagen-shot-10g-rundscollagen.webp",
             "column_size": "3",
             "title": "Marine",
             "heading_tag": "h5",
@@ -188,6 +189,7 @@
         "item_UefVMG": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/smart-collagen-shot-collageen-supplements-insentials.webp",
             "column_size": "3",
             "title": "Léa",
             "heading_tag": "h5",
@@ -200,6 +202,7 @@
         "item_y8Gnqd": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/insentials-supplements-smart-collagen-91_-opneembaar.jpg",
             "column_size": "3",
             "title": "Catherine",
             "heading_tag": "h5",
@@ -212,6 +215,7 @@
         "item_KQTYp3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/insentials-collageen-shot-anti-aging-haar-nagels.jpg",
             "column_size": "3",
             "title": "Clémence",
             "heading_tag": "h4",
@@ -224,6 +228,7 @@
         "item_j6jqAQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Generated_Image_September_25_2025_-_12_02PM.png",
             "column_size": "3",
             "title": "Sarah",
             "heading_tag": "h4",
@@ -236,6 +241,7 @@
         "item_46jqfm": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Generated_Image_September_27_2025_-_7_15PM.png",
             "column_size": "3",
             "title": "Annie",
             "heading_tag": "h4",
