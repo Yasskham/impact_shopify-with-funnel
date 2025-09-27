@@ -280,6 +280,7 @@
         "item_LRAifa": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1.png",
             "column_size": "3",
             "title": "Marine",
             "heading_tag": "h5",
@@ -292,6 +293,7 @@
         "item_a4p7G4": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/2.png",
             "column_size": "3",
             "title": "Léa",
             "heading_tag": "h5",
@@ -304,22 +306,11 @@
         "item_iJMr7q": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/4.png",
             "column_size": "3",
             "title": "Catherine",
             "heading_tag": "h5",
             "content": "<p> Fini l'angoisse des premières rides, je me sens enfin libre et épanouie à quarante ans</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_4rx4nC": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Sarah",
-            "heading_tag": "h4",
-            "content": "<p>Meilleur investissement beauté de ma vie, résultats durables garantis.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -329,8 +320,7 @@
       "block_order": [
         "item_LRAifa",
         "item_a4p7G4",
-        "item_iJMr7q",
-        "item_4rx4nC"
+        "item_iJMr7q"
       ],
       "name": "Multi-column",
       "settings": {
