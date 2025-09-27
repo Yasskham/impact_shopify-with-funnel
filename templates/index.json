@@ -12,7 +12,8 @@
     "image_with_text_overlay_KeqeEw": {
       "type": "image-with-text-overlay",
       "custom_css": [
-        ".place-self-end-center {position: absolute; bottom: 100px;}"
+        "h2 {font-size: 32px; color: #000000 !important; /* Noir forcé */ position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%); text-align: center; width: 100%; z-index: 2;}",
+        ".image-with-text__overlay::before {background: none !important; /* Supprime tout overlay noir ou blanc qui cache le texte */}"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -20,7 +21,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Votre_texte_de_paragraphe.jpg",
+        "image": "shopify://shop_images/Ajouter_u.png",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
@@ -211,6 +212,19 @@
             "link_style": "link"
           }
         },
+        "item_KQTYp3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_September_27_2025_-_7_15PM.png",
+            "column_size": "3",
+            "title": "Clémence",
+            "heading_tag": "h4",
+            "content": "<p>Ma nouvelle routine matinale, je vois déjà la différence partout.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_j6jqAQ": {
           "type": "item",
           "settings": {
@@ -223,13 +237,28 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_46jqfm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_September_25_2025_-_12_02PM.png",
+            "column_size": "3",
+            "title": "Annie",
+            "heading_tag": "h4",
+            "content": "<p>Je le prends au petit-déjeuner, ma peau est vraiment plus ferme.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_LtJHXA",
         "item_UefVMG",
         "item_y8Gnqd",
-        "item_j6jqAQ"
+        "item_KQTYp3",
+        "item_j6jqAQ",
+        "item_46jqfm"
       ],
       "name": "Multi-column",
       "settings": {
