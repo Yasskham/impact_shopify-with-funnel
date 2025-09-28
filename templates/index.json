@@ -530,61 +530,119 @@
         "text_color": ""
       }
     },
+    "accordion_content_D9WEDG": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_KRUdgc": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Ce que vous allez ressentir",
+            "content": "<ul><li>Le matin : <strong>visage moins froissé</strong>, plus net au miroir<br/></li><li>Dans la journée : <strong>moins de tiraillements</strong>, plus de confort<br/></li><li>En photo/visio : <strong>assurance</strong> et glow naturel<br/></li></ul>",
+            "page": ""
+          }
+        },
+        "item_NBxDVr": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Pour qui ?",
+            "content": "<ul><li>35+ qui veulent du <strong>visible sans se compliquer</strong></li><li>Peaux en manque d’<strong>éclat</strong> ou d’<strong>uniformité</strong><br/></li><li>Vies <strong>chargées</strong> qui réclament une routine <strong>tenable</strong></li></ul>",
+            "page": ""
+          }
+        },
+        "item_ANziHF": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Question 3",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_KRUdgc",
+        "item_NBxDVr",
+        "item_ANziHF"
+      ],
+      "name": "Accordion content",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "faq_fL4TNB": {
       "type": "faq",
       "blocks": {
         "item_4EwCnx": {
           "type": "item",
           "settings": {
-            "title": "Comment appliquer correctement Glowush ?",
-            "content": "<p>Pour appliquer correctement <strong>Glowush</strong>, chargez la pointe en la glissant sur le crayon, positionnez l’applicateur contre votre joue pour stabiliser, puis tracez la ligne des cils en petits mouvements. Pour un effet cat eye, ajoutez un flick au coin externe et reliez.</p>"
+            "title": "Quels résultats puis-je espérer ?",
+            "content": "<p>Un <strong>teint plus frais</strong>, une peau qui <strong>paraît plus lisse</strong> et “tenue”, des <strong>retouches maquillage réduites</strong>. L’objectif : te sentir <strong>plus confiant(e)</strong> au quotidien.</p>"
+          }
+        },
+        "item_DKCFAV": {
+          "type": "item",
+          "settings": {
+            "title": "En combien de temps vais-je le ressentir ?",
+            "content": "<p>Beaucoup notent un <strong>teint plus reposé</strong> en <strong>1–2 semaines</strong>. Les effets perçus sur l’aspect lisse et l’éclat se <strong>consolident au fil de la cure</strong> (plusieurs semaines).</p>"
           }
         },
         "item_DkLb7B": {
           "type": "item",
           "settings": {
-            "title": "Glowush permet-il de dessiner précisément le contour des yeux ?",
-            "content": "<p>Oui, <strong>Glowush</strong> permet un tracé précis grâce à son applicateur ergonomique qui épouse naturellement la forme de l’œil. Il offre une excellente prise en main et facilite la réalisation de traits nets, même pour les débutants. Parfait pour un contour défini et élégant.</p>"
+            "title": "Comment l’intégrer sans oublier ?",
+            "content": "<p>Prends-le <strong>une fois par jour</strong>, au <strong>même moment</strong> (avec le café du matin ou juste après le brossage des dents). Format <strong>nomade</strong> : glisse un shot dans ton sac/bureau.</p>"
           }
         },
         "item_6WGJqh": {
           "type": "item",
           "settings": {
-            "title": "À quelle fréquence faut-il remplacer l’embout ?",
-            "content": "<p>L’embout est remplaçable ; la marque fournit deux embouts dans le kit, idéalement à changer tous les 3‑4 mois pour maintenir une précision optimale</p>"
+            "title": "Est-ce compatible avec ma routine beauté/maquillage ?",
+            "content": "<p>Oui : le shot <strong>simplifie</strong> la routine. Beaucoup constatent un <strong>maquillage qui file moins</strong> et un rendu <strong>plus net</strong> avec <strong>moins de couches</strong>.</p>"
           }
         },
         "item_aPJErG": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que Glowush tient toute la journée ?",
-            "content": "<p>Oui, <strong>Glowush</strong> tient parfaitement toute la journée. Sa formule résistante à l’humidité et aux frottements assure un maquillage impeccable du matin jusqu’au soir, sans bavure. Idéal pour un look intense et durable, même en cas de chaleur ou d’activité prolongée.</p>"
+            "title": "Et si j’oublie un jour ?",
+            "content": "<p>Pas grave : <strong>reprends simplement le lendemain</strong>. La <strong>régularité</strong> compte plus que la perfection.</p><p></p>"
           }
         },
         "item_mig7pp": {
           "type": "item",
           "settings": {
-            "title": "Comment utiliser l'applicateur correctement ?",
-            "content": "<p>Glissez délicatement l’embout sur la surface de l’eyeliner (sans creuser), positionnez le doigt dans l’encoche, et tracez en petits segments via la fenêtre centrale</p>"
-          }
-        },
-        "item_yk4ekz": {
-          "type": "item",
-          "settings": {
-            "title": "Glowush convient-il à tous les types de peau ?",
-            "content": "<p>Oui, <strong>Glowush</strong> est formulé pour convenir à tous les types de peau, même les plus sensibles. Sa texture légère et non comédogène respecte l’équilibre naturel de la peau.</p>"
+            "title": "Et si je ne suis pas convaincu(e) ?",
+            "content": "<p>Tu es <strong>satisfait(e) ou remboursé(e)</strong> : <strong>30 jours d’essai</strong> pour te faire ta propre opinion, <strong>remboursement 100% sans risque</strong> si ça ne te convient pas.</p>"
           }
         }
       },
       "block_order": [
         "item_4EwCnx",
+        "item_DKCFAV",
         "item_DkLb7B",
         "item_6WGJqh",
         "item_aPJErG",
-        "item_mig7pp",
-        "item_yk4ekz"
+        "item_mig7pp"
       ],
-      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
@@ -633,6 +691,7 @@
     "featured_product_X9BJic",
     "scrolling_text_naVUq4",
     "custom_liquid_xhMxjJ",
+    "accordion_content_D9WEDG",
     "faq_fL4TNB",
     "1751032672f432be84"
   ]
