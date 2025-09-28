@@ -428,24 +428,11 @@
             "max_width": 500
           }
         },
-        "image_eV9qAP": {
+        "image_a6KVnk": {
           "type": "image",
           "settings": {
-            "alignment": "center",
-            "max_width": 460
-          }
-        },
-        "image_tHBnPQ": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "max_width": 460
-          }
-        },
-        "image_zckRwf": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
+            "image": "shopify://shop_images/trust_aurenea.png",
+            "alignment": "start",
             "max_width": 500
           }
         },
@@ -495,9 +482,7 @@
         "quantity_selector_gkCmqX",
         "buy_buttons_qUbeWB",
         "image_jVQN9y",
-        "image_eV9qAP",
-        "image_tHBnPQ",
-        "image_zckRwf",
+        "image_a6KVnk",
         "pickup_availability_jaEUN4",
         "liquid_gKfFrA",
         "image_qLiC7b",
