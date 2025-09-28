@@ -152,19 +152,6 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "custom_liquid_RUjccY": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<style>  \n/* === Testimonials Carousel (Custom Liquid) === */\n.t-wrap{--gap:18px;--radius:16px;--shadow:0 8px 24px rgba(0,0,0,.08);--fg:#111;--bg:transparent;--card:#fff}\n.t-wrap{color:var(--fg);background:var(--bg);padding:8px 0}\n\n/* CENTRER le header */\n.t-head{\n  display:flex;\n  flex-direction:column;\n  align-items:center;\n  justify-content:center;\n  text-align:center;\n  margin:0 6px 10px;\n}\n.t-title{font-weight:700;font-size:clamp(18px,2.6vw,24px);margin:0}\n\n/* Badge note moyenne */\n.t-badge{\n  display:inline-flex;align-items:center;gap:8px;\n  background:#fff;border:1px solid #e5e5e5;border-radius:999px;\n  padding:8px 12px;margin-top:12px;box-shadow:0 4px 12px rgba(0,0,0,.06);\n  font-size:14px\n}\n.t-badge .tp-stars{color:#00B67A;font-size:16px;letter-spacing:.5px;line-height:1}\n.t-badge .tp-score{font-weight:700}\n.t-badge img{height:18px;width:auto;display:block}\n\n.t-viewport{position:relative;overflow:hidden;padding:0 44px}\n.t-track{display:flex;gap:var(--gap);will-change:transform}\n.t-item{flex:0 0 calc(100% - var(--gap));max-width:calc(100% - var(--gap));background:var(--card);border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden}\n.t-media{height:200px}\n.t-media img{width:100%;height:100%;object-fit:cover;display:block}\n.t-body{padding:12px 14px}\n.t-stars{color:#FFC107;font-size:16px;letter-spacing:.5px}\n.t-quote{margin:8px 0 10px;line-height:1.45}\n.t-meta{display:flex;gap:8px;align-items:center;font-size:13px;opacity:.85}\n.t-sub{opacity:.7}\n.t-nav{position:absolute;top:50%;translate:0 -50%;width:36px;height:36px;border-radius:999px;border:1px solid #e5e5e5;background:#fff;display:grid;place-items:center;cursor:pointer;box-shadow:0 4px 12px rgba(0,0,0,.08);z-index:2}\n.t-prev{left:6px} .t-next{right:6px}\n@media(min-width:768px){\n  .t-item{flex-basis:calc(50% - var(--gap));max-width:calc(50% - var(--gap))}\n  .t-media{height:220px}\n}\n@media(min-width:1024px){\n  .t-item{flex-basis:calc(33.333% - var(--gap));max-width:calc(33.333% - var(--gap))}\n}\n</style>\n\n<div class=\"t-wrap\" id=\"t-{{ section.id }}\">\n  <div class=\"t-head\">\n    <h2 class=\"t-title\">Ce que disent nos clients</h2>\n\n    <!-- Badge note moyenne 4,7/5 -->\n    <div class=\"t-badge\" aria-label=\"Note moyenne 4,7 sur 5\">\n      <span class=\"tp-stars\" aria-hidden=\"true\">★★★★★</span>\n      <span class=\"tp-score\">4,7/5</span>\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/7598/2355/files/telechargement_20.png?v=1724723450\" alt=\"Trustpilot\">\n    </div>\n  </div>\n\n  <div class=\"t-viewport\">\n    <button class=\"t-nav t-prev\" aria-label=\"Previous\">&#10094;</button>\n    <div class=\"t-track\">\n      <!-- ====== AVIS AURENEA – SHOT DE COLLAGÈNE (avec tes 9 images dans l’ordre) ====== -->\n\n      <article class=\"t-item\" data-rating=\"5\">\n        <div class=\"t-media\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0988/5296/2568/files/avis_italien_1.png?v=1759097740\" alt=\"Laura après sa cure Aurenea\">\n        </div>\n        <div class=\"t-body\">\n          <div class=\"t-stars\" aria-hidden=\"true\"></div>\n          <p class=\"t-quote\">“Pour celles qui hésitent : c’est simple et rapide ! En trois shots, j’ai retrouvé l’impression de ma peau de 30 ans : teint lumineux, peau plus lisse et plus ferme. Ravie.”</p>\n          <div class=\"t-meta\"><strong>Laura</strong><span class=\"t-sub\">Cure 3 semaines</span></div>\n        </div>\n      </article>\n\n      <article class=\"t-item\" data-rating=\"5\">\n        <div class=\"t-media\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0988/5296/2568/files/avis_italien_2.png?v=1759097740\" alt=\"Marie parle de son front lissé\">\n        </div>\n        <div class=\"t-body\">\n          <div class=\"t-stars\" aria-hidden=\"true\"></div>\n          <p class=\"t-quote\">“Je pensais que ce serait contraignant… pas du tout ! Mes rides du front me complexaient, j’envisageais un traitement, puis j’ai essayé le shot Aurenea. Quelle différence !”</p>\n          <div class=\"t-meta\"><strong>Marie</strong><span class=\"t-sub\">Routine quotidienne</span></div>\n        </div>\n      </article>\n\n      <article class=\"t-item\" data-rating=\"5\">\n        <div class=\"t-media\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0988/5296/2568/files/avis_italien3.png?v=1759097741\" alt=\"Agathe peau plus uniforme\">\n        </div>\n        <div class=\"t-body\">\n          <div class=\"t-stars\" aria-hidden=\"true\"></div>\n          <p class=\"t-quote\">“Je croyais que le laser était ma seule option. Avec les shots de collagène, ma peau est plus uniforme et éclatante — et la routine est indolore et ultra simple.”</p>\n          <div class=\"t-meta\"><strong>Agathe</strong><span class=\"t-sub\">Éclat & uniformité</span></div>\n        </div>\n      </article>\n\n      <article class=\"t-item\" data-rating=\"5\">\n        <div class=\"t-media\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0988/5296/2568/files/avis_italien4.png?v=1759097739\" alt=\"Mélanie rides du contour des lèvres\">\n        </div>\n        <div class=\"t-body\">\n          <div class=\"t-stars\" aria-hidden=\"true\"></div>\n          <p class=\"t-quote\">“Dès le premier shot, les ridules autour des lèvres m’ont paru moins marquées. Après un mois, le contour est plus lisse et je me sens plus confiante.”</p>\n          <div class=\"t-meta\"><strong>Mélanie</strong><span class=\"t-sub\">Contour des lèvres</span></div>\n        </div>\n      </article>\n\n      <article class=\"t-item\" data-rating=\"5\">\n        <div class=\"t-media\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0988/5296/2568/files/avis_italien5.png?v=1759097739\" alt=\"Sylvie regard plus frais\">\n        </div>\n        <div class=\"t-body\">\n          <div class=\"t-stars\" aria-hidden=\"true\"></div>\n          <p class=\"t-quote\">“Incroyable ! Je n’aurais jamais cru que mes pattes d’oie s’adouciraient aussi vite avec une routine si facile. Glow visible, regard plus frais.”</p>\n          <div class=\"t-meta\"><strong>Sylvie</strong><span class=\"t-sub\">Regard & glow</span></div>\n        </div>\n      </article>\n\n      <article class=\"t-item\" data-rating=\"5\">\n        <div class=\"t-media\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0988/5296/2568/files/avis_italien6.png?v=1759097738\" alt=\"Brigitte cou plus lisse et tenu\">\n        </div>\n        <div class=\"t-body\">\n          <div class=\"t-stars\" aria-hidden=\"true\"></div>\n          <p class=\"t-quote\">“Le cou me complexait (petit relâchement). C’est le seul geste qui m’a donné un rendu plus lisse et plus ‘tenu’. Le résultat est bluffant pour moi.”</p>\n          <div class=\"t-meta\"><strong>Brigitte</strong><span class=\"t-sub\">Zone du cou</span></div>\n        </div>\n      </article>\n\n      <article class=\"t-item\" data-rating=\"5\">\n        <div class=\"t-media\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0988/5296/2568/files/avis_italien7.png?v=1759097739\" alt=\"Estelle pattes d'oie adoucies\">\n        </div>\n        <div class=\"t-body\">\n          <div class=\"t-stars\" aria-hidden=\"true\"></div>\n          <p class=\"t-quote\">“Mes pattes d’oie étaient mon plus grand complexe. En quelques semaines de shots, elles paraissent vraiment adoucies. J’en parle à toute la famille !”</p>\n          <div class=\"t-meta\"><strong>Estelle</strong><span class=\"t-sub\">Lissage contour yeux</span></div>\n        </div>\n      </article>\n\n      <article class=\"t-item\" data-rating=\"5\">\n        <div class=\"t-media\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0988/5296/2568/files/avis_italien8.png?v=1759097739\" alt=\"Tiphaine routine indispensable\">\n        </div>\n        <div class=\"t-body\">\n          <div class=\"t-stars\" aria-hidden=\"true\"></div>\n          <p class=\"t-quote\">“Depuis que je prends mon shot chaque matin, ma peau a changé : résultats rapides, routine addictive. C’est devenu l’indispensable de ma beauté.”</p>\n          <div class=\"t-meta\"><strong>Tiphaine</strong><span class=\"t-sub\">Rituel du matin</span></div>\n        </div>\n      </article>\n\n      <article class=\"t-item\" data-rating=\"5\">\n        <div class=\"t-media\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0988/5296/2568/files/avis_italien_9.png?v=1759097740\" alt=\"Christelle décolleté lissé\">\n        </div>\n        <div class=\"t-body\">\n          <div class=\"t-stars\" aria-hidden=\"true\"></div>\n          <p class=\"t-quote\">“À 71 ans, je pensais qu’il n’y avait plus rien à faire pour les rides du décolleté. Les shots Aurenea ont apporté un vrai lissage visuel. Je recommande.”</p>\n          <div class=\"t-meta\"><strong>Christelle</strong><span class=\"t-sub\">Décolleté & fermeté</span></div>\n        </div>\n      </article>\n\n      <!-- ======================== -->\n    </div>\n    <button class=\"t-nav t-next\" aria-label=\"Next\">&#10095;</button>\n  </div>\n</div>\n\n<script>\n/* === Minimal carousel logic (no libs) === */\n(() => {\n  const root = document.querySelector('#t-{{ section.id }}');\n  if(!root) return;\n  const track = root.querySelector('.t-track');\n  const prev  = root.querySelector('.t-prev');\n  const next  = root.querySelector('.t-next');\n\n  // Render stars from data-rating (0–5)\n  root.querySelectorAll('.t-item').forEach(card => {\n    const n = Math.max(0, Math.min(5, Number(card.dataset.rating)||0));\n    const stars = card.querySelector('.t-stars');\n    stars.innerHTML = '★★★★★'.slice(0,n) + '<span style=\"color:#00B67A\">' + '★★★★★'.slice(n) + '</span>';\n    stars.setAttribute('aria-label', `${n} sur 5`);\n  });\n\n  // Clone items to simulate infinite loop\n  const originals = Array.from(track.children);\n  originals.forEach(el => track.appendChild(el.cloneNode(true)));\n\n  let index = 0, timer;\n  const step = () => {\n    index++;\n    track.style.transition = 'transform .5s ease';\n    const width = originals[0].getBoundingClientRect().width + parseFloat(getComputedStyle(track).gap || 18);\n    track.style.transform = `translateX(${-index * width}px)`;\n    if(index >= originals.length){\n      setTimeout(() => {\n        track.style.transition = 'none';\n        index = 0;\n        track.style.transform = 'translateX(0)`;\n      }, 520);\n    }\n  };\n  const play = () => timer = setInterval(step, 3500);\n  const stop = () => timer && clearInterval(timer);\n\n  next.addEventListener('click', ()=>{ stop(); step(); play(); });\n  prev.addEventListener('click', ()=>{\n    stop();\n    const width = originals[0].getBoundingClientRect().width + parseFloat(getComputedStyle(track).gap || 18);\n    index = (index <= 0) ? originals.length-1 : index-1;\n    track.style.transition = 'none';\n    track.style.transform = `translateX(${-index * width}px)`;\n    play();\n  });\n\n  root.addEventListener('mouseenter', stop);\n  root.addEventListener('mouseleave', play);\n\n  // Basic touch swipe\n  let sx=0, dx=0;\n  track.addEventListener('touchstart', e=>{ sx = e.touches[0].clientX; stop(); }, {passive:true});\n  track.addEventListener('touchmove', e=>{ dx = e.touches[0].clientX - sx; }, {passive:true});\n  track.addEventListener('touchend', ()=>{\n    if(Math.abs(dx)>40){ (dx<0? next: prev).click(); }\n    dx=0; play();\n  });\n\n  play();\n})();\n</script>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "multi_column_n4mmaJ": {
       "type": "multi-column",
       "blocks": {
@@ -276,7 +263,7 @@
         "item_LRAifa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1.png",
+            "image": "shopify://shop_images/avis_italien_1.png",
             "column_size": "3",
             "title": "Marine",
             "heading_tag": "h5",
@@ -289,7 +276,7 @@
         "item_a4p7G4": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2.png",
+            "image": "shopify://shop_images/avis_italien_2.png",
             "column_size": "3",
             "title": "Léa",
             "heading_tag": "h5",
@@ -302,7 +289,7 @@
         "item_iJMr7q": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4.png",
+            "image": "shopify://shop_images/avis_italien3.png",
             "column_size": "3",
             "title": "Catherine",
             "heading_tag": "h5",
@@ -315,6 +302,7 @@
         "item_KtjBVE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_italien4.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -327,6 +315,7 @@
         "item_hrA6ky": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_italien5.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -339,6 +328,7 @@
         "item_aFnHng": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_italien6.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -351,6 +341,7 @@
         "item_wdKw7R": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_italien7.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -363,6 +354,7 @@
         "item_xW6TBg": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_italien8.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -375,6 +367,7 @@
         "item_WXPXfx": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis_italien_9.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -782,7 +775,6 @@
     "image_with_text_overlay_4i78Uz",
     "rich_text_JEMPxf",
     "before_after_image_xDrUjy",
-    "custom_liquid_RUjccY",
     "multi_column_n4mmaJ",
     "multi_column_GKHTF6",
     "featured_product_X9BJic",
