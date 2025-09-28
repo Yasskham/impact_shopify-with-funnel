@@ -11,6 +11,17 @@
   "sections": {
     "image_with_text_overlay_KeqeEw": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_JRycFA": {
+          "type": "subheading",
+          "settings": {
+            "text": "Commencez la journée avec une peau qui dit oui."
+          }
+        }
+      },
+      "block_order": [
+        "subheading_JRycFA"
+      ],
       "custom_css": [
         "h2 {font-size: 32px; color: #000000 !important; /* Noir forcé */ position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%); text-align: center; width: 100%; z-index: 2;}",
         ".image-with-text__overlay::before {background: none !important; /* Supprime tout overlay noir ou blanc qui cache le texte */}"
@@ -21,8 +32,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Ajouter_u.png",
-        "mobile_text_position": "place-self-end-center text-center",
+        "image": "shopify://shop_images/Generated_Image_September_28_2025_-_4_31PM.png",
+        "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -552,22 +563,11 @@
             "content": "<ul><li>35+ qui veulent du <strong>visible sans se compliquer</strong></li><li>Peaux en manque d’<strong>éclat</strong> ou d’<strong>uniformité</strong><br/></li><li>Vies <strong>chargées</strong> qui réclament une routine <strong>tenable</strong></li></ul>",
             "page": ""
           }
-        },
-        "item_ANziHF": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Question 3",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
         "item_KRUdgc",
-        "item_NBxDVr",
-        "item_ANziHF"
+        "item_NBxDVr"
       ],
       "name": "Accordion content",
       "settings": {
