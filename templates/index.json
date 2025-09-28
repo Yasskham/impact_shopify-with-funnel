@@ -356,12 +356,21 @@
             "heading_tag": "h2"
           }
         },
+        "image_DcfBDw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SOLDE_-50_Les_French_Days_2025_CF.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "badges_dqKxme": {
           "type": "badges",
           "settings": {}
         },
         "price_L33KMA": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
@@ -400,13 +409,6 @@
           "disabled": true,
           "settings": {}
         },
-        "image_RA6jrD": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
         "buy_buttons_qUbeWB": {
           "type": "buy_buttons",
           "settings": {
@@ -416,6 +418,14 @@
             "atc_button_text_color": "",
             "payment_button_background": "#000000",
             "payment_button_text_color": "#1a1a1a"
+          }
+        },
+        "image_jVQN9y": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/demiere_chance.png",
+            "alignment": "start",
+            "max_width": 500
           }
         },
         "image_eV9qAP": {
@@ -475,6 +485,7 @@
       },
       "block_order": [
         "title_LrWxEP",
+        "image_DcfBDw",
         "badges_dqKxme",
         "price_L33KMA",
         "liquid_KK9MWp",
@@ -482,8 +493,8 @@
         "variant_picker_8PYyCr",
         "kaching_bundles_app_block_VmHrkz",
         "quantity_selector_gkCmqX",
-        "image_RA6jrD",
         "buy_buttons_qUbeWB",
+        "image_jVQN9y",
         "image_eV9qAP",
         "image_tHBnPQ",
         "image_zckRwf",
