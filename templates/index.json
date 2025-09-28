@@ -671,10 +671,10 @@
             "only_photos": false,
             "hide_thumbnails": false,
             "product_handle": "shot-collagene",
-            "aggregated": true,
+            "aggregated": false,
             "data-limit": 6,
             "maxwidth": 1080,
-            "is_sample": true
+            "is_sample": false
           }
         }
       },
