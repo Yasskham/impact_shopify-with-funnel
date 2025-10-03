@@ -105,7 +105,7 @@
         "heading_AfDWNg": {
           "type": "heading",
           "settings": {
-            "text": "Transformation totale sans salle de sport, sans régime ni chirurgie esthétique",
+            "text": "Un gesto. Zero crisi. Finalmente serenità.",
             "heading_tag": "h5",
             "text_color": "",
             "gradient": ""
@@ -128,29 +128,48 @@
         "text_color": ""
       }
     },
-    "before_after_image_xDrUjy": {
-      "type": "before-after-image",
-      "name": "Before/after image",
+    "video_pApHfY": {
+      "type": "video",
+      "name": "Video",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "<p> </p>",
-        "before_image": "shopify://shop_images/ads_askip_marge_bien.png",
-        "after_image": "shopify://shop_images/ads_askip_marge_bien_2.png",
-        "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "top",
-        "before_text": "",
-        "after_text": "",
-        "drag_initial_position": 40,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/0926.mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_zxUjti": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mL64na": {
+          "type": "heading",
+          "settings": {
+            "text": "Risultati reali. Genitori soddisfatti.",
+            "heading_tag": "h5",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_mL64na"
+      ],
+      "custom_css": [
+        "/* Supprimer le gras dans les zones de Rich Text */.rich-text,.rich-text p,.rich-text span,.rich-text strong,.rich-text b {font-weight: normal !important;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "text_color": ""
       }
     },
     "multi_column_n4mmaJ": {
@@ -243,7 +262,6 @@
         "item_j6jqAQ",
         "item_46jqfm"
       ],
-      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -251,152 +269,6 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "",
-        "content": "<p> </p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multi_column_GKHTF6": {
-      "type": "multi-column",
-      "blocks": {
-        "item_LRAifa": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/avis_italien_1.png",
-            "column_size": "3",
-            "title": "Marine",
-            "heading_tag": "h5",
-            "content": "<p>“Pour celles qui hésitent : c’est simple et rapide ! En <strong>trois shots</strong>, j’ai retrouvé l’impression de ma peau de 30 ans : <strong>teint lumineux</strong>, <strong>peau plus lisse et plus ferme</strong>. Ravie.”</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_a4p7G4": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/avis_italien_2.png",
-            "column_size": "3",
-            "title": "Léa",
-            "heading_tag": "h5",
-            "content": "<p>“Je pensais que ce serait contraignant… pas du tout ! Mes <strong>rides du front me complexaient</strong>, j’envisageais un traitement, puis j’ai essayé le <strong>shot Aurenea</strong>. <strong>Quelle différence !</strong>”</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_iJMr7q": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/avis_italien3.png",
-            "column_size": "3",
-            "title": "Catherine",
-            "heading_tag": "h5",
-            "content": "<p>“Je croyais que le laser était ma seule option. Avec les <strong>shots de collagène</strong>, ma peau est <strong>plus uniforme et éclatante</strong> — et la routine est <strong>indolore et ultra simple</strong>.”</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_KtjBVE": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/avis_italien4.png",
-            "column_size": "3",
-            "title": "Nathalie",
-            "heading_tag": "h4",
-            "content": "<p>“Dès le <strong>premier shot</strong>, les <strong>ridules autour des lèvres</strong> m’ont paru <strong>moins marquées</strong>. Après un mois, le <strong>contour est plus lisse</strong> et je me sens <strong>plus confiante</strong>.”</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_hrA6ky": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/avis_italien5.png",
-            "column_size": "3",
-            "title": "Sophie",
-            "heading_tag": "h4",
-            "content": "<p>“<strong>Incroyable</strong> ! Je n’aurais jamais cru que mes <strong>pattes d’oie</strong> s’adouciraient aussi vite avec une routine si <strong>facile</strong>. <strong>Glow</strong> visible, regard plus frais.”</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_aFnHng": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/avis_italien6.png",
-            "column_size": "3",
-            "title": "Marie",
-            "heading_tag": "h4",
-            "content": "<p>“Le <strong>cou</strong> me complexait (petit relâchement). C’est le <strong>seul geste</strong> qui m’a donné un rendu <strong>plus lisse et plus “tenu”</strong>. Le résultat est <strong>bluffant</strong> pour moi.”</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_wdKw7R": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/avis_italien7.png",
-            "column_size": "3",
-            "title": "Anne-Claire",
-            "heading_tag": "h4",
-            "content": "<p>“Mes <strong>pattes d’oie</strong> étaient mon plus grand complexe. En quelques semaines de <strong>shots</strong>, elles paraissent <strong>vraiment adoucies</strong>. J’en parle <strong>à toute la famille</strong> !”</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_xW6TBg": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/avis_italien8.png",
-            "column_size": "3",
-            "title": "Sandra",
-            "heading_tag": "h4",
-            "content": "<p>“Depuis que je prends mon <strong>shot chaque matin</strong>, ma peau a <strong>changé</strong> : résultats <strong>rapides</strong>, routine <strong>addictive</strong>. C’est devenu <strong>l’indispensable</strong> de ma beauté.”</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_WXPXfx": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/avis_italien_9.png",
-            "column_size": "3",
-            "title": "Béatrice",
-            "heading_tag": "h4",
-            "content": "<p>“À <strong>71 ans</strong>, je pensais qu’il n’y avait plus rien à faire pour les <strong>rides du décolleté</strong>. Les <strong>shots Aurenea</strong> ont apporté un <strong>vrai lissage visuel</strong>. <strong>Je recommande.</strong>”</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_LRAifa",
-        "item_a4p7G4",
-        "item_iJMr7q",
-        "item_KtjBVE",
-        "item_hrA6ky",
-        "item_aFnHng",
-        "item_wdKw7R",
-        "item_xW6TBg",
-        "item_WXPXfx"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "small",
-        "text_alignment": "center",
-        "subheading": "Nos clientes en parlent le mieux",
         "title": "",
         "content": "<p> </p>",
         "background": "",
@@ -784,9 +656,9 @@
     "custom_liquid_Tjw38M",
     "image_with_text_overlay_4i78Uz",
     "rich_text_JEMPxf",
-    "before_after_image_xDrUjy",
+    "video_pApHfY",
+    "rich_text_zxUjti",
     "multi_column_n4mmaJ",
-    "multi_column_GKHTF6",
     "featured_product_X9BJic",
     "scrolling_text_naVUq4",
     "custom_liquid_xhMxjJ",
