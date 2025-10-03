@@ -544,6 +544,21 @@
         "accordion_text_color": ""
       }
     },
+    "video_rL8wC8": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/0926(1c'est tellement calme ! .mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "faq_fL4TNB": {
       "type": "faq",
       "blocks": {
@@ -677,6 +692,7 @@
     "scrolling_text_naVUq4",
     "custom_liquid_xhMxjJ",
     "accordion_content_D9WEDG",
+    "video_rL8wC8",
     "faq_fL4TNB",
     "1751032672f432be84",
     "custom_liquid_8DphdR"
