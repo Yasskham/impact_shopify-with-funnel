@@ -599,6 +599,35 @@
         "text_color": ""
       }
     },
+    "rich_text_gDdzEn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wPxJGM": {
+          "type": "heading",
+          "settings": {
+            "text": "Ogni domanda ha la sua risposta. Ordinate in tutta serenità.",
+            "heading_tag": "h5",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_wPxJGM"
+      ],
+      "custom_css": [
+        "/* Supprimer le gras dans les zones de Rich Text */.rich-text,.rich-text p,.rich-text span,.rich-text strong,.rich-text b {font-weight: normal !important;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq_fL4TNB": {
       "type": "faq",
       "blocks": {
@@ -734,6 +763,7 @@
     "video_rL8wC8",
     "rich_text_TLVx7R",
     "custom_liquid_xhMxjJ",
+    "rich_text_gDdzEn",
     "faq_fL4TNB",
     "1751032672f432be84",
     "custom_liquid_8DphdR"
