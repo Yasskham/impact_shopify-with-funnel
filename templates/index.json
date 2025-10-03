@@ -483,19 +483,6 @@
         "text_gradient": ""
       }
     },
-    "custom_liquid_xhMxjJ": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "{% style %}\n  :root{\n    --brand:#324B51;\n    --bg:#F6F7F8;\n    --ok:#1DB45E;\n    --ko:#EF4D4D;\n    --ink:#263238;\n    --light:#FAFAFA;\n    --line:#E6EDF0;\n  }\n  *{box-sizing:border-box;margin:0;padding:0}\n\n  .cmp-wrap{max-width:960px;margin:0 auto;padding:14px}\n  .cmp-card{background:#fff;border-radius:20px;box-shadow:0 10px 30px rgba(0,0,0,.08);overflow:hidden}\n  .cmp-pad{padding:8px}\n  .cmp-title{padding:10px 12px 6px;text-align:center;color:var(--brand);font-weight:800}\n\n  .cmp-table{width:100%;border-collapse:separate;border-spacing:0;table-layout:fixed}\n  .cmp-table th,.cmp-table td{padding:14px 12px;vertical-align:middle}\n\n  .col-crit{\n    width:44%;color:var(--ink);font-weight:800;background:#fff;\n    word-break:break-word;\n  }\n  .col-or{width:28%;background:var(--brand);color:#fff;text-align:center;font-weight:900}\n  .col-ot{width:28%;background:var(--light);color:var(--ink);text-align:center;font-weight:900}\n\n  .head-crit{background:#fff;border-bottom:1px solid var(--line)}\n  .head-or{background:var(--brand);color:#fff;border-bottom:1px solid rgba(255,255,255,.15)}\n  .head-ot{background:var(--light);border-bottom:1px solid #EDEFF1}\n\n  .prod-head{display:flex;align-items:center;gap:8px;justify-content:center;flex-direction:column}\n  .prod-img{width:64px;height:64px;border-radius:12px;background:#fff;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 18px rgba(0,0,0,.12);overflow:hidden}\n  .prod-img img{width:100%;height:100%;object-fit:contain}\n  .prod-name{font-size:13px;line-height:1.2;text-transform:uppercase;letter-spacing:.3px}\n\n  .cmp-table tr:not(.head) td{border-top:1px solid var(--line)}\n  .cmp-table tr td.col-or{border-top:1px solid rgba(255,255,255,.15)}\n  .cmp-table tr td.col-ot{border-top:1px solid #EDEFF1}\n\n  .mark{\n    width:36px;height:36px;border-radius:50%;\n    display:inline-flex;align-items:center;justify-content:center;\n    background:#fff;font-weight:900;box-shadow:0 2px 8px rgba(0,0,0,.08)\n  }\n  .ok{color:var(--ok)} .ko{color:var(--ko)}\n\n  .price-or,.price-ot{\n    font-weight:900;line-height:1;white-space:nowrap;word-break:keep-all;\n    display:inline-block;\n    font-size:clamp(9px, 2.1vw, 12px);\n    letter-spacing:-.2px;\n  }\n  .price-or{color:#fff}\n  .price-ot{color:#E53935}\n\n  .cmp-table tr.head th:first-child{border-top-left-radius:16px}\n  .cmp-table tr.head th:last-child{border-top-right-radius:16px}\n  .cmp-table tr.last td:first-child{border-bottom-left-radius:16px}\n  .cmp-table tr.last td:last-child{border-bottom-right-radius:16px}\n\n  @media (max-width:560px){\n    .cmp-wrap{padding:10px}\n    .cmp-title{font-size:14px}\n    .cmp-table th,.cmp-table td{padding:12px 10px}\n    .col-crit{width:40%}\n    .col-or,.col-ot{width:30%}\n    .prod-img{width:54px;height:54px}\n    .prod-name{font-size:10.5px}\n    .mark{width:30px;height:30px;font-size:14px}\n  }\n{% endstyle %}\n\n<div class=\"cmp-wrap\">\n  <div class=\"cmp-card\">\n    <div class=\"cmp-title\"></div>\n    <div class=\"cmp-pad\">\n      <table class=\"cmp-table\">\n        <tr class=\"head\">\n          <th class=\"head-crit col-crit\"></th>\n          <th class=\"head-or col-or\">\n            <div class=\"prod-head\">\n              <div class=\"prod-img\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0966/2490/2476/files/Copie_de_photo_produit_SCP_2.png?v=1759341676\" alt=\"Orsilane Respikid\">\n              </div>\n              <div class=\"prod-name\">Orsilane Respikid</div>\n            </div>\n          </th>\n          <th class=\"head-ot col-ot\">\n            <div class=\"prod-head\">\n              <div class=\"prod-img\" style=\"background:#fff\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0966/2490/2476/files/Copie_de_photo_produit_SCP_3.png?v=1759342039\" alt=\"Sciroppi / Spray / Farmaci\">\n              </div>\n              <div class=\"prod-name\" style=\"color:var(--brand)\">Sciroppi / Spray / Farmaci</div>\n            </div>\n          </th>\n        </tr>\n\n        <tr>\n          <td class=\"col-crit\">Azione respiratoria completa</td>\n          <td class=\"col-or\"><span class=\"mark ok\">✓</span></td>\n          <td class=\"col-ot\"><span class=\"mark ok\">✓</span></td>\n        </tr>\n\n        <tr>\n          <td class=\"col-crit\">100% naturale (soluzione fisiologica)</td>\n          <td class=\"col-or\"><span class=\"mark ok\">✓</span></td>\n          <td class=\"col-ot\"><span class=\"mark ko\">✗</span></td>\n        </tr>\n\n        <tr>\n          <td class=\"col-crit\">Senza effetti collaterali</td>\n          <td class=\"col-or\"><span class=\"mark ok\">✓</span></td>\n          <td class=\"col-ot\"><span class=\"mark ko\">✗</span></td>\n        </tr>\n\n        <tr>\n          <td class=\"col-crit\">Adatto dalla nascita</td>\n          <td class=\"col-or\"><span class=\"mark ok\">✓</span></td>\n          <td class=\"col-ot\"><span class=\"mark ko\">✗</span></td>\n        </tr>\n\n        <tr>\n          <td class=\"col-crit\">Allevia tosse e raffreddore</td>\n          <td class=\"col-or\"><span class=\"mark ok\">✓</span></td>\n          <td class=\"col-ot\"><span class=\"mark ok\">✓</span></td>\n        </tr>\n\n        <tr>\n          <td class=\"col-crit\">Economico a lungo termine</td>\n          <td class=\"col-or\"><span class=\"mark ok\">✓</span></td>\n          <td class=\"col-ot\"><span class=\"mark ko\">✗</span></td>\n        </tr>\n\n        <tr class=\"last\">\n          <td class=\"col-crit\">Prezzo / Costo</td>\n          <td class=\"col-or\"><span class=\"price-or\">Acquisto unico</span></td>\n          <td class=\"col-ot\"><span class=\"price-ot\">Costo ricorrente</span></td>\n        </tr>\n      </table>\n    </div>\n  </div>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "accordion_content_D9WEDG": {
       "type": "accordion-content",
       "blocks": {
@@ -550,13 +537,55 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": false,
+        "autoplay": true,
         "video_size": "auto",
         "video": "shopify://files/videos/0926(1c'est tellement calme ! .mov",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
+      }
+    },
+    "rich_text_TLVx7R": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cB69iU": {
+          "type": "heading",
+          "settings": {
+            "text": "Orsilane vs nebulizzatori tradizionali, spray e sciroppi",
+            "heading_tag": "h5",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_cB69iU"
+      ],
+      "custom_css": [
+        "/* Supprimer le gras dans les zones de Rich Text */.rich-text,.rich-text p,.rich-text span,.rich-text strong,.rich-text b {font-weight: normal !important;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_xhMxjJ": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "{% style %}\n  :root{\n    --brand:#324B51;\n    --bg:#F6F7F8;\n    --ok:#1DB45E;\n    --ko:#EF4D4D;\n    --ink:#263238;\n    --light:#FAFAFA;\n    --line:#E6EDF0;\n  }\n  *{box-sizing:border-box;margin:0;padding:0}\n\n  .cmp-wrap{max-width:960px;margin:0 auto;padding:14px}\n  .cmp-card{background:#fff;border-radius:20px;box-shadow:0 10px 30px rgba(0,0,0,.08);overflow:hidden}\n  .cmp-pad{padding:8px}\n  .cmp-title{padding:10px 12px 6px;text-align:center;color:var(--brand);font-weight:800}\n\n  .cmp-table{width:100%;border-collapse:separate;border-spacing:0;table-layout:fixed}\n  .cmp-table th,.cmp-table td{padding:14px 12px;vertical-align:middle}\n\n  .col-crit{\n    width:44%;color:var(--ink);font-weight:800;background:#fff;\n    word-break:break-word;\n  }\n  .col-or{width:28%;background:var(--brand);color:#fff;text-align:center;font-weight:900}\n  .col-ot{width:28%;background:var(--light);color:var(--ink);text-align:center;font-weight:900}\n\n  .head-crit{background:#fff;border-bottom:1px solid var(--line)}\n  .head-or{background:var(--brand);color:#fff;border-bottom:1px solid rgba(255,255,255,.15)}\n  .head-ot{background:var(--light);border-bottom:1px solid #EDEFF1}\n\n  .prod-head{display:flex;align-items:center;gap:8px;justify-content:center;flex-direction:column}\n  .prod-img{width:64px;height:64px;border-radius:12px;background:#fff;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 18px rgba(0,0,0,.12);overflow:hidden}\n  .prod-img img{width:100%;height:100%;object-fit:contain}\n  .prod-name{font-size:13px;line-height:1.2;text-transform:uppercase;letter-spacing:.3px}\n\n  .cmp-table tr:not(.head) td{border-top:1px solid var(--line)}\n  .cmp-table tr td.col-or{border-top:1px solid rgba(255,255,255,.15)}\n  .cmp-table tr td.col-ot{border-top:1px solid #EDEFF1}\n\n  .mark{\n    width:36px;height:36px;border-radius:50%;\n    display:inline-flex;align-items:center;justify-content:center;\n    background:#fff;font-weight:900;box-shadow:0 2px 8px rgba(0,0,0,.08)\n  }\n  .ok{color:var(--ok)} .ko{color:var(--ko)}\n\n  .price-or,.price-ot{\n    font-weight:900;line-height:1;white-space:nowrap;word-break:keep-all;\n    display:inline-block;\n    font-size:clamp(9px, 2.1vw, 12px);\n    letter-spacing:-.2px;\n  }\n  .price-or{color:#fff}\n  .price-ot{color:#E53935}\n\n  .cmp-table tr.head th:first-child{border-top-left-radius:16px}\n  .cmp-table tr.head th:last-child{border-top-right-radius:16px}\n  .cmp-table tr.last td:first-child{border-bottom-left-radius:16px}\n  .cmp-table tr.last td:last-child{border-bottom-right-radius:16px}\n\n  @media (max-width:560px){\n    .cmp-wrap{padding:10px}\n    .cmp-title{font-size:14px}\n    .cmp-table th,.cmp-table td{padding:12px 10px}\n    .col-crit{width:40%}\n    .col-or,.col-ot{width:30%}\n    .prod-img{width:54px;height:54px}\n    .prod-name{font-size:10.5px}\n    .mark{width:30px;height:30px;font-size:14px}\n  }\n{% endstyle %}\n\n<div class=\"cmp-wrap\">\n  <div class=\"cmp-card\">\n    <div class=\"cmp-title\"></div>\n    <div class=\"cmp-pad\">\n      <table class=\"cmp-table\">\n        <tr class=\"head\">\n          <th class=\"head-crit col-crit\"></th>\n          <th class=\"head-or col-or\">\n            <div class=\"prod-head\">\n              <div class=\"prod-img\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0966/2490/2476/files/Copie_de_photo_produit_SCP_2.png?v=1759341676\" alt=\"Orsilane Respikid\">\n              </div>\n              <div class=\"prod-name\">Orsilane Respikid</div>\n            </div>\n          </th>\n          <th class=\"head-ot col-ot\">\n            <div class=\"prod-head\">\n              <div class=\"prod-img\" style=\"background:#fff\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0966/2490/2476/files/Copie_de_photo_produit_SCP_3.png?v=1759342039\" alt=\"Sciroppi / Spray / Farmaci\">\n              </div>\n              <div class=\"prod-name\" style=\"color:var(--brand)\">Sciroppi / Spray / Farmaci</div>\n            </div>\n          </th>\n        </tr>\n\n        <tr>\n          <td class=\"col-crit\">Azione respiratoria completa</td>\n          <td class=\"col-or\"><span class=\"mark ok\">✓</span></td>\n          <td class=\"col-ot\"><span class=\"mark ok\">✓</span></td>\n        </tr>\n\n        <tr>\n          <td class=\"col-crit\">100% naturale (soluzione fisiologica)</td>\n          <td class=\"col-or\"><span class=\"mark ok\">✓</span></td>\n          <td class=\"col-ot\"><span class=\"mark ko\">✗</span></td>\n        </tr>\n\n        <tr>\n          <td class=\"col-crit\">Senza effetti collaterali</td>\n          <td class=\"col-or\"><span class=\"mark ok\">✓</span></td>\n          <td class=\"col-ot\"><span class=\"mark ko\">✗</span></td>\n        </tr>\n\n        <tr>\n          <td class=\"col-crit\">Adatto dalla nascita</td>\n          <td class=\"col-or\"><span class=\"mark ok\">✓</span></td>\n          <td class=\"col-ot\"><span class=\"mark ko\">✗</span></td>\n        </tr>\n\n        <tr>\n          <td class=\"col-crit\">Allevia tosse e raffreddore</td>\n          <td class=\"col-or\"><span class=\"mark ok\">✓</span></td>\n          <td class=\"col-ot\"><span class=\"mark ok\">✓</span></td>\n        </tr>\n\n        <tr>\n          <td class=\"col-crit\">Economico a lungo termine</td>\n          <td class=\"col-or\"><span class=\"mark ok\">✓</span></td>\n          <td class=\"col-ot\"><span class=\"mark ko\">✗</span></td>\n        </tr>\n\n        <tr class=\"last\">\n          <td class=\"col-crit\">Prezzo / Costo</td>\n          <td class=\"col-or\"><span class=\"price-or\">Acquisto unico</span></td>\n          <td class=\"col-ot\"><span class=\"price-ot\">Costo ricorrente</span></td>\n        </tr>\n      </table>\n    </div>\n  </div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "faq_fL4TNB": {
@@ -690,9 +719,10 @@
     "multi_column_n4mmaJ",
     "featured_product_X9BJic",
     "scrolling_text_naVUq4",
-    "custom_liquid_xhMxjJ",
     "accordion_content_D9WEDG",
     "video_rL8wC8",
+    "rich_text_TLVx7R",
+    "custom_liquid_xhMxjJ",
     "faq_fL4TNB",
     "1751032672f432be84",
     "custom_liquid_8DphdR"
