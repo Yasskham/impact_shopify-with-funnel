@@ -388,8 +388,8 @@
         "image_a6KVnk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/trust_aurenea.png",
-            "alignment": "start",
+            "image": "shopify://shop_images/BellaCurva_3.png",
+            "alignment": "center",
             "max_width": 500
           }
         },
