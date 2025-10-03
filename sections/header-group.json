@@ -17,28 +17,28 @@
         "message_VKdX8q": {
           "type": "message",
           "settings": {
-            "text": "Offre d'été limitée, jusqu'à -50%",
+            "text": "Offerta autunnale limitata, fino a -50%",
             "url": ""
           }
         },
         "message_Jqwbyz": {
           "type": "message",
           "settings": {
-            "text": "Payement 100% sécurisé",
+            "text": "Pagamento 100% sicuro",
             "url": ""
           }
         },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Livraison offerte",
+            "text": "Spedizione gratuita",
             "url": ""
           }
         },
         "message_pPbVj6": {
           "type": "message",
           "settings": {
-            "text": "Satisfait ou Remboursé",
+            "text": "Soddisfatti o rimborsati",
             "url": ""
           }
         }
