@@ -221,7 +221,7 @@
             "column_size": "3",
             "title": "Alexandra",
             "heading_tag": "h4",
-            "content": "<p>Con tutti 'sti raffreddori in giro, è proprio il nostro alleato. <strong>Meno casini </strong>improvvisi, più bei momenti in famiglia. <strong>Lo portiamo ovunque,</strong> usciamo tranquilli, weekend e vacanze finalmente sereni.</p>",
+            "content": "<p>Con tutti 'sti raffreddori, è il nostro <strong>alleato</strong>. Meno casini improvvisi, più momenti in famiglia. <strong>Lo prendiamo ovunque</strong>, weekend e vacanze sereni.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -234,7 +234,7 @@
             "column_size": "3",
             "title": "Laura",
             "heading_tag": "h4",
-            "content": "<p>Di solito rifiutava le 'cure'. Ora accetta <strong>volentieri</strong>, anche perché non fa rumore. Vederla respirare meglio è un <strong>sollievo enorme</strong>. Mi sento finalmente tranquilla e molto <strong>meno agitata.</strong></p>",
+            "content": "<p>Di solito rifiutava le 'cure'. Ora accetta <strong>volentieri</strong>, perché non fa <strong>rumore</strong>. Vederla respirare <strong>meglio</strong> è un <strong>sollievo</strong> enorme. Mi sento tranquilla e meno agitata.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -243,11 +243,11 @@
         "item_46jqfm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Generated_Image_September_27_2025_-_7_15PM.png",
+            "image": "shopify://shop_images/6_8cfda078-151c-44dd-a34a-cebc2fa58aa7.png",
             "column_size": "3",
-            "title": "Annie",
+            "title": "David",
             "heading_tag": "h4",
-            "content": "<p>Je le prends au petit-déjeuner, ma peau est vraiment plus ferme.</p>",
+            "content": "<p>Lo usiamo prima della nanna: in minuti respira <strong>meglio</strong>, la casa si rilassa. Ora sa <strong>usarlo</strong> da sola, posso lavorare <strong>tranquilla</strong> al computer.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
