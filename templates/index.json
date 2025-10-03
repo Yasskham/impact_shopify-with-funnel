@@ -178,11 +178,11 @@
         "item_LtJHXA": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/insentials-supplements-collagen-shot-10g-rundscollagen.webp",
+            "image": "shopify://shop_images/1_46c28839-c88c-40e4-929e-14fd9d0c9121.png",
             "column_size": "3",
-            "title": "Marine",
+            "title": "Mariana",
             "heading_tag": "h5",
-            "content": "<p>Plus besoin de fond de teint, ma peau rayonne naturellement et parfaitement chaque matin</p>",
+            "content": "<p><strong>Portatile</strong> ovunque serve. Sera stessa, tosse calmata. Ha sorriso... noi respirato.</p><p><strong>Risultato</strong>: addormentata in 10 minuti, notte tranquilla.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -191,11 +191,11 @@
         "item_UefVMG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/smart-collagen-shot-collageen-supplements-insentials.webp",
+            "image": "shopify://shop_images/2_ca28029d-068a-4f60-9caa-be9c35808ac0.png",
             "column_size": "3",
             "title": "Léa",
             "heading_tag": "h5",
-            "content": "<p> Ma confiance a explosé depuis que je bois ce collagène, effet visible immédiatement.</p>",
+            "content": "<p>Rituale dolce, <strong>silenzioso</strong>, prima della nanna. Si rilassa in minuti, dorme<strong> senza svegliarsi </strong>tutta la notte. Risveglio riposato, niente pianti né naso chiuso.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
