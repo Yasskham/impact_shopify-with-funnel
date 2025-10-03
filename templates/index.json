@@ -477,7 +477,7 @@
           "type": "item",
           "settings": {
             "title": "Come si ricarica Aurenea?",
-            "content": "<p>Semplicissimo: basta collegare il cavo USB-C incluso a qualsiasi presa USB (caricatore telefono, computer, powerbank).</p>"
+            "content": "<p><strong>Semplicissimo</strong>: basta collegare il cavo <strong>USB-C incluso</strong> a qualsiasi presa USB (caricatore telefono, computer, powerbank).</p>"
           }
         },
         "item_mig7pp": {
