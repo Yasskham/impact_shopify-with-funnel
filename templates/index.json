@@ -47,7 +47,7 @@
         "heading_7BGiMt": {
           "type": "heading",
           "settings": {
-            "text": "Vu sur :",
+            "text": "Visto su",
             "heading_tag": "h5",
             "text_color": "",
             "gradient": ""
@@ -91,7 +91,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Design_sans_titre_51.png",
+        "image": "shopify://shop_images/Aurenea.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
