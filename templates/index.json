@@ -491,8 +491,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Ce que vous allez ressentir",
-            "content": "<ul><li>Le matin : <strong>visage moins froissé</strong>, plus net au miroir<br/></li><li>Dans la journée : <strong>moins de tiraillements</strong>, plus de confort<br/></li><li>En photo/visio : <strong>assurance</strong> et glow naturel<br/></li></ul>",
+            "title": "La differenza che Aurenea fa nella tua famiglia",
+            "content": "<p><strong>Quotidiano trasformato per tutta la famiglia:</strong> Niente più notti interrotte da tosse e naso chiuso. Il tuo bambino dorme sereno, tu anche. I risvegli difficili appartengono al passato.</p><p><strong>Mattine serene, notti tranquille:</strong> Respira liberamente, gioca senza fastidi, vive pienamente le giornate. Meno stanchezza, più sorrisi.</p><p><strong>La tua tranquillità:</strong> Una soluzione naturale sempre a portata di mano. Agisci subito ai primi sintomi, senza stress o corse dal medico per ogni raffreddore. Orsilane diventa il tuo alleato quotidiano, per bambini felici e genitori sereni.</p>",
             "page": ""
           }
         },
@@ -501,15 +501,26 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Pour qui ?",
-            "content": "<ul><li>35+ qui veulent du <strong>visible sans se compliquer</strong></li><li>Peaux en manque d’<strong>éclat</strong> ou d’<strong>uniformité</strong><br/></li><li>Vies <strong>chargées</strong> qui réclament une routine <strong>tenable</strong></li></ul>",
+            "title": "Perché è semplice",
+            "content": "<p><strong>Nessuna competenza tecnica richiesta.</strong><br/>Riempite il serbatoio con soluzione fisiologica, posizionate la maschera sul viso del vostro bambino e premete un pulsante. Il nebulizzatore Orsilane fa tutto il resto.</p><p><strong>Tre gesti, tutto qui:</strong> Riempire, posizionare, avviare.<br/>Anche ai primi utilizzi, avete subito il pieno controllo dell’apparecchio.<br/>Nessuna impostazione complicata, nessun manuale incomprensibile – solo l’essenziale per dare sollievo rapido al vostro bambino.</p><p><strong>Pensato per i genitori sempre di corsa :</strong><br/>In pochi secondi, siete pronti. Orsilane si integra perfettamente nella vostra routine quotidiana, senza sforzo e senza bisogno di imparare nulla.</p>",
+            "page": ""
+          }
+        },
+        "item_986Way": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Pulizia e manutenzione.",
+            "content": "<p><strong>Una manutenzione minima per un’igiene massima :</strong><br/>Dopo ogni utilizzo, basta sciacquare la maschera e il serbatoio con acqua tiepida e sapone. Lasciateli asciugare all’aria, e il gioco è fatto.<br/>Nessun prodotto speciale richiesto, nessuna procedura complicata.</p><p><strong>Il filtro ultra-resistente :</strong><br/>Progettato per durare anni, il filtro integrato elimina la necessità di sostituzioni frequenti o costi extra.<br/>Un investimento duraturo che mantiene alte prestazioni stagione dopo stagione, inverno dopo inverno.</p><p><strong>Bastano pochi minuti :</strong><br/>Una pulizia rapida che si inserisce facilmente nella vostra routine quotidiana.<br/>Aurenea rimane pulito, efficace e pronto all’uso per la prossima sessione.</p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "item_KRUdgc",
-        "item_NBxDVr"
+        "item_NBxDVr",
+        "item_986Way"
       ],
       "name": "Accordion content",
       "settings": {
