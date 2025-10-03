@@ -290,199 +290,6 @@
         "text_color": ""
       }
     },
-    "featured_product_X9BJic": {
-      "type": "featured-product",
-      "blocks": {
-        "liquid_Lm3ByD": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .trustpilot-stars-wrapper {\n    display: flex;\n    align-items: center;\n    gap: 6px;\n    font-family: Arial, sans-serif;\n  }\n  .trustpilot-stars {\n    display: flex;\n    gap: 2px;\n  }\n  .trustpilot-star {\n    background-color: #00b67a;\n    width: 20px;\n    height: 20px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    border-radius: 2px;\n  }\n  .trustpilot-star svg {\n    width: 14px;\n    height: 14px;\n    fill: #fff;\n  }\n  .trustpilot-rating-text {\n    font-size: 13px;\n    color: #000;\n  }\n  .trustpilot-rating-text strong {\n    font-weight: 600;\n  }\n</style>\n<div class=\"trustpilot-stars-wrapper\">\n  <div class=\"trustpilot-stars\">\n    {% for i in (1..5) %}\n      <div class=\"trustpilot-star\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\">\n          <path d=\"M256 394.7L99.6 480l29.9-174.3L13.4 190.6 190.8 162 256 0l65.2 162 177.4 28.6-116.1 115.1 29.9 174.3z\"/>\n        </svg>\n      </div>\n    {% endfor %}\n  </div>\n  <div class=\"trustpilot-rating-text\">\n     <strong>Valutato 4.8/5</strong> | da oltre 1000 clienti!\n  </div>\n</div>"
-          }
-        },
-        "title_LrWxEP": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "image_g9Tcwd": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_October_03_2025_-_6_09PM.png",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "image_DcfBDw": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Pancia_gonfia_visibile_sotto_ogni_vestito_11.png",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "badges_dqKxme": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_L33KMA": {
-          "type": "price",
-          "disabled": true,
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "liquid_KK9MWp": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"stock-alert\" id=\"stock-alert\">\n  <span class=\"blinking-dot\"></span>\n  <span>Disponibile: <strong id=\"stock-count\">Ultimi 3 pezzi</strong></span>\n</div>\n\n<style>\n  .stock-alert {\n    display: flex;\n    align-items: center;\n    background-color: #ffebeb;\n    border: 2px solid red;\n    color: red;\n    font-weight: bold;\n    padding: 5px 10px;\n    border-radius: 4px;\n    font-size: 14px;\n    width: fit-content;\n  }\n\n  .blinking-dot {\n    width: 8px;\n    height: 8px;\n    background-color: red;\n    border-radius: 50%;\n    margin-right: 6px;\n    animation: blink 1s infinite;\n  }\n\n  @keyframes blink {\n    0% { opacity: 1; }\n    50% { opacity: 0; }\n    100% { opacity: 1; }\n  }\n</style>\n\n<script>\n  setTimeout(function() {\n    document.getElementById(\"stock-count\").innerHTML = \"3 kit restants\";\n  }, 60000); // 120000ms = 2 minutes\n</script>"
-          }
-        },
-        "rating_qRGMtL": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "variant_picker_8PYyCr": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "kaching_bundles_app_block_VmHrkz": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
-        "quantity_selector_gkCmqX": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {}
-        },
-        "buy_buttons_qUbeWB": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#f0c417",
-            "atc_button_text_color": "#1a1a1a",
-            "payment_button_background": "#000000",
-            "payment_button_text_color": "#1a1a1a"
-          }
-        },
-        "image_jVQN9y": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_October_03_2025_-_7_05PM.png",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "image_a6KVnk": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/BellaCurva_3.png",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "pickup_availability_jaEUN4": {
-          "type": "pickup_availability",
-          "settings": {}
-        },
-        "liquid_gKfFrA": {
-          "type": "liquid",
-          "settings": {
-            "liquid": ""
-          }
-        },
-        "image_qLiC7b": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "image_erTqPp": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "image_rAD4x8": {
-          "type": "image",
-          "settings": {
-            "alignment": "start",
-            "max_width": 370
-          }
-        }
-      },
-      "block_order": [
-        "liquid_Lm3ByD",
-        "title_LrWxEP",
-        "image_g9Tcwd",
-        "image_DcfBDw",
-        "badges_dqKxme",
-        "price_L33KMA",
-        "liquid_KK9MWp",
-        "rating_qRGMtL",
-        "variant_picker_8PYyCr",
-        "kaching_bundles_app_block_VmHrkz",
-        "quantity_selector_gkCmqX",
-        "buy_buttons_qUbeWB",
-        "image_jVQN9y",
-        "image_a6KVnk",
-        "pickup_availability_jaEUN4",
-        "liquid_gKfFrA",
-        "image_qLiC7b",
-        "image_erTqPp",
-        "image_rAD4x8"
-      ],
-      "name": "Featured product",
-      "settings": {
-        "full_width": true,
-        "product": "shot-collagene",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "contained",
-        "mobile_carousel_control": "thumbnails",
-        "enable_video_autoplay": false,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
-    "scrolling_text_naVUq4": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "⚡ –50% jusqu'à minuit | Collagène régénéré instantanément | 98% de femmes rajeunies | Commandez maintenant !",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "accordion_content_D9WEDG": {
       "type": "accordion-content",
       "blocks": {
@@ -634,22 +441,22 @@
         "item_4EwCnx": {
           "type": "item",
           "settings": {
-            "title": "Quels résultats puis-je espérer ?",
-            "content": "<p>Un <strong>teint plus frais</strong>, une peau qui <strong>paraît plus lisse</strong> et “tenue”, des <strong>retouches maquillage réduites</strong>. L’objectif : te sentir <strong>plus confiant(e)</strong> au quotidien.</p>"
+            "title": "Mio figlio ha paura? Aurenea lo aiuterà?",
+            "content": "<p><strong>Orsilane</strong> è stato progettato pensando proprio a questo: è <strong>completamente silenzioso</strong>, quindi non spaventa più i bambini con quel rumore forte e <strong>spaventoso</strong>. Molti genitori ci dicono che i loro figli ora accettano il trattamento senza <strong>lacrime,</strong> e alcuni si <strong>addormentano</strong> persino durante l'utilizzo. Finalmente potete curare vostro figlio senza <strong>battaglie e stress.</strong></p>"
           }
         },
         "item_DKCFAV": {
           "type": "item",
           "settings": {
-            "title": "En combien de temps vais-je le ressentir ?",
-            "content": "<p>Beaucoup notent un <strong>teint plus reposé</strong> en <strong>1–2 semaines</strong>. Les effets perçus sur l’aspect lisse et l’éclat se <strong>consolident au fil de la cure</strong> (plusieurs semaines).</p>"
+            "title": "Posso portarlo ovunque?",
+            "content": "<p><strong>Assolutamente sì</strong>. Aurenea funziona <strong>senza cavi e ha una batteria</strong> che dura fino a 60 minuti. Sta in tasca o nella <strong>borsa</strong>. Che siate al parco, in <strong>viaggio, dai nonni o al ristorante</strong>, potete intervenire subito quando serve. Non dovrete più annullare.</p>"
           }
         },
         "item_DkLb7B": {
           "type": "item",
           "settings": {
-            "title": "Comment l’intégrer sans oublier ?",
-            "content": "<p>Prends-le <strong>une fois par jour</strong>, au <strong>même moment</strong> (avec le café du matin ou juste après le brossage des dents). Format <strong>nomade</strong> : glisse un shot dans ton sac/bureau.</p>"
+            "title": "È difficile da pulire?",
+            "content": "<p>Orsilane si pulisce in <strong>2 minuti,</strong> semplicemente con <strong>acqua</strong> calda. Niente smontaggio <strong>complicato</strong>, niente pezzi impossibili da raggiungere. Seguite 5 semplici passi nel manuale <strong>e avete finito</strong>. Più tempo per il vostro bambino, meno stress per voi.</p>"
           }
         },
         "item_6WGJqh": {
@@ -756,8 +563,6 @@
     "video_pApHfY",
     "rich_text_zxUjti",
     "multi_column_n4mmaJ",
-    "featured_product_X9BJic",
-    "scrolling_text_naVUq4",
     "accordion_content_D9WEDG",
     "video_rL8wC8",
     "rich_text_TLVx7R",
