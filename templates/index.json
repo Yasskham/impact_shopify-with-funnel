@@ -290,6 +290,105 @@
         "text_color": ""
       }
     },
+    "featured_product_D6TXJL": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_YqiRTa": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_fTaFk6": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_aVUpEL": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_bkVDzK": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_Bp8wKx": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_GAgJ9w": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_cjUwbK": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_8pV4DX": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons_qFkRBz": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_PN3w6m": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_YqiRTa",
+        "title_fTaFk6",
+        "badges_aVUpEL",
+        "price_bkVDzK",
+        "rating_Bp8wKx",
+        "separator_GAgJ9w",
+        "description_cjUwbK",
+        "variant_picker_8pV4DX",
+        "buy_buttons_qFkRBz",
+        "pickup_availability_PN3w6m"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "aurenea-nebukid",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "accordion_content_D9WEDG": {
       "type": "accordion-content",
       "blocks": {
@@ -571,6 +670,7 @@
     "video_pApHfY",
     "rich_text_zxUjti",
     "multi_column_n4mmaJ",
+    "featured_product_D6TXJL",
     "accordion_content_D9WEDG",
     "video_rL8wC8",
     "rich_text_TLVx7R",
