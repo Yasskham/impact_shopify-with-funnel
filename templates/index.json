@@ -252,6 +252,19 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_PiqzQF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_b76bd588-7103-4569-80fe-c36c2ed801e5.png",
+            "column_size": "3",
+            "title": "Mathilda",
+            "heading_tag": "h4",
+            "content": "<p>Dopo settimane difficili, prima notte completa. La mattina <strong>riposato</strong> e pronto per scuola. Funziona <strong>ovunque, senza prese. </strong>Meno assenze, più forza.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
@@ -260,7 +273,8 @@
         "item_y8Gnqd",
         "item_KQTYp3",
         "item_j6jqAQ",
-        "item_46jqfm"
+        "item_46jqfm",
+        "item_PiqzQF"
       ],
       "name": "Multi-column",
       "settings": {
