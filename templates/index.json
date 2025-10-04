@@ -293,10 +293,6 @@
     "featured_product_D6TXJL": {
       "type": "featured-product",
       "blocks": {
-        "vendor_YqiRTa": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_fTaFk6": {
           "type": "title",
           "settings": {
@@ -319,9 +315,21 @@
             "show_empty": false
           }
         },
-        "separator_GAgJ9w": {
-          "type": "separator",
-          "settings": {}
+        "image_LKxKew": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Pancia_gonfia_visibile_sotto_ogni_vestito_11.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_7EVjXh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_October_03_2025_-_6_09PM.png",
+            "alignment": "center",
+            "max_width": 420
+          }
         },
         "description_cjUwbK": {
           "type": "description",
@@ -342,6 +350,12 @@
             "size_chart_page": ""
           }
         },
+        "kaching_bundles_app_block_AntyL7": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "buy_buttons_qFkRBz": {
           "type": "buy_buttons",
           "settings": {
@@ -353,21 +367,31 @@
             "payment_button_text_color": ""
           }
         },
+        "image_UVkkez": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BellaCurva_3.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "pickup_availability_PN3w6m": {
           "type": "pickup_availability",
           "settings": {}
         }
       },
       "block_order": [
-        "vendor_YqiRTa",
         "title_fTaFk6",
         "badges_aVUpEL",
         "price_bkVDzK",
         "rating_Bp8wKx",
-        "separator_GAgJ9w",
+        "image_LKxKew",
+        "image_7EVjXh",
         "description_cjUwbK",
         "variant_picker_8pV4DX",
+        "kaching_bundles_app_block_AntyL7",
         "buy_buttons_qFkRBz",
+        "image_UVkkez",
         "pickup_availability_PN3w6m"
       ],
       "name": "Featured product",
